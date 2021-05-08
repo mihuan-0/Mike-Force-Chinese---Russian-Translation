@@ -797,7 +797,7 @@
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_total_capacity">
         <Original>total capacity</Original>
-        <Chinesesimp>总产能</Chinesesimp>
+        <Chinesesimp>总容量</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_pageAbrev">
         <Original>p.</Original>
