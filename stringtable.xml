@@ -1,58 +1,3 @@
-Queue isEqualTo []) then {
-	// This won't queue, as we cleared the current vote above.
-	(_voteQueue deleteAt 0) call para_s_fnc_create_vote;
-};/*
-    File: fn_submit_vote.sqf
-    Author: Spoffy
-    Date: 2021-02-21
-    Last Update: 2021-02-21
-    Public: No
-    
-    Description:
-        Submits a vote from a given player.
-    
-    Parameter(s):
-		_index - Position of option in list [NUMBER]
-    
-    Returns:
-		None
-    
-    Example(s):
-		["submit_vote", 3] call para_c_fnc_call_on_server
-*/
-//TODO - stop people being able to accidentally submit an answer for the wrong vote.
-params ["_index"];
-
-private _vote = localNamespace getVariable "para_s_current_vote";
-private _options = _vote select 2;
-private _submittedPlayers = localNamespace getVariable "para_s_vote_submitted_players";
-private _playerId = getPlayerUID _player;
-
-if (_submittedPlayers find _playerId > -1 || _index < 0 || _index >= count _options) exitWith {};
-
-private _submittedAnswers = localNamespace getVariable "para_s_vote_submitted_answers";
-
-_submittedPlayers pushBack _playerId;
-_submittedAnswers pushBack _index;
-# Paradigm
-Gamemode framework for Arma 3
-<?xml version="1.0" encoding="utf-8"?>
-<Project name="PARADIGM_LIBRARY">
-	<Package name="PARADIGM">
-		<Container name="default">
-		</Container>
-		<Container name="notifications">
-			<Key ID="STR_para_notification_insufficient_resources_title">
-				<Original>Insufficient Resources</Original>
-        <Chinesesimp>资源不足</Chinesesimp>
-			</Key>
-			<Key ID="STR_para_notification_insufficient_resources_desc">
-				<Original>The building doesn't have enough resources to do that.</Original>
-        <Chinesesimp>建筑物没有足够的资源可用。</Chinesesimp>
-			</Key>
-		</Container>
-	</Package>
-</Project>
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="VN_MF_GAMEMODE">
   <Package name="MF">
@@ -83,7 +28,7 @@ Gamemode framework for Arma 3
       </Key>
       <Key ID="STR_vn_mf_training">
         <Original>%1 Training</Original>
-        <Chinesesimp>%1训练中</Chinesesimp>
+        <Chinesesimp>%1训练</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_needtobeengineer">
         <Original>You must be an %1 to build, please see a Duty Officer.</Original>
@@ -151,7 +96,7 @@ Gamemode framework for Arma 3
       </Key>
       <Key ID="STR_vn_mf_situation_room">
         <Original>Situation Room</Original>
-        <Chinesesimp>形势室</Chinesesimp>
+        <Chinesesimp>情景室</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_checkpoint">
         <Original>Checkpoint</Original>
@@ -507,15 +452,15 @@ Gamemode framework for Arma 3
       </Key>
       <Key ID="STR_vn_mf_hud_toggledOff">
         <Original>You toggled off the interaction overlay.</Original>
-        <Chinesesimp>你停用了互动界面。</Chinesesimp>
+        <Chinesesimp>你停用了互动提示界面。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_hud_toggledOn">
         <Original>You toggled on the interaction overlay.</Original>
-        <Chinesesimp>你启用了互动界面。</Chinesesimp>
+        <Chinesesimp>你启用了互动提示界面。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_interactionOverlay_toggle">
         <Original>Toggle Interaction Overlay</Original>
-        <Chinesesimp>切换互动界面</Chinesesimp>
+        <Chinesesimp>切换互动提示界面</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_MikeForceDescription">
         <Original>As special forces infantry, your team's role is to:&lt;br/&gt;- Sweep and clear areas of enemy&lt;br/&gt;- Secure and hold zones&lt;br/&gt;- Protect populations, logistics and supplies&lt;br/&gt;- Reinforce other teams&lt;br/&gt;Tasks&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Primary Tasks are shared by all teams.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Secondary Tasks are unique to your team.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Support Tasks are called by other teams in need of your help. You may also request their support, for example transport is provided for you by ACAV or Green Hornets.</Original>
