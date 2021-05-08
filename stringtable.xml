@@ -1068,7 +1068,7 @@
       <Key ID="STR_vn_mf_buildingMenu_category_sanitation">
         <Original>Sanitation</Original>
         <English>Sanitation</English>
-        <Chinesesimp>卫生设备</Chinesesimp>
+        <Chinesesimp>卫生设施</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_resupply">
         <Original>Resupply</Original>
@@ -1088,7 +1088,7 @@
       <Key ID="STR_vn_mf_buildingMenu_category_bunkers">
         <Original>Bunkers</Original>
         <English>Bunkers</English>
-        <Chinesesimp>地堡</Chinesesimp>
+        <Chinesesimp>掩体</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_fortifications">
         <Original>Fortifications</Original>
@@ -1108,7 +1108,7 @@
       <Key ID="STR_vn_mf_buildingMenu_category_shelters">
         <Original>Shelters</Original>
         <English>Shelters</English>
-        <Chinesesimp>避难所</Chinesesimp>
+        <Chinesesimp>棚屋</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_nv">
         <Original>North Vietnamese</Original>
