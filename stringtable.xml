@@ -5,1474 +5,1726 @@
       <Key ID="STR_vn_mf_levelup">
         <Original>LEVEL UP!</Original>
 		<Russian>УРОВЕНЬ ПОВЫШЕН!</Russian>
+        <Chinesesimp>晋升！</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rankpoint_short">
         <Original>RP</Original>
 		<Russian>RP</Russian>
+        <Chinesesimp>军功点</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_needdutyofficer">
         <Original>Cannot change teams without a duty officer present.</Original>
 		<Russian>Нельзя менять команды без присутствия дежурного офицера.</Russian>
+        <Chinesesimp>没有值班军官在场，不得更换队伍。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_dropincomming">
         <Original>%1 drop incomming.</Original>
 		<Russian>%1 drop incomming(входящая заброска).</Russian>
+        <Chinesesimp>%1即将空投。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_requestdrop">
         <Original>Request %1</Original>
 		<Russian>Запрос %1</Russian>
+        <Chinesesimp>请求%1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_goto">
         <Original>Goto %1</Original>
 		<Russian>Перейти к %1</Russian>
+        <Chinesesimp>前往%1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_training">
         <Original>%1 Training</Original>
 		<Russian>%1 Тренировка</Russian>
+        <Chinesesimp>%1训练</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_needtobeengineer">
         <Original>You must be an %1 to build, please see a Duty Officer.</Original>
 		<Russian>Вы должны быть %1, чтобы строить, пожалуйста, обратитесь к дежурному офицеру.</Russian>
+        <Chinesesimp>你必须是%1才能建造，请找值班军官。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_medic">
         <Original>Medic</Original>
 		<Russian>Медик</Russian>
+        <Chinesesimp>医疗兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_radioOperator">
         <Original>Radio Operator</Original>
 		<Russian>Радист</Russian>
+        <Chinesesimp>无线电报务员</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_radioOperatorTasks">
         <Original>Operating radios, communication</Original>
 		<Russian>Работающие рации, взаимодействие</Russian>
+        <Chinesesimp>操作无线电，通讯</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_engineer">
         <Original>Engineer</Original>
 		<Russian>Инженер</Russian>
+        <Chinesesimp>工程兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_explosive_specialist">
         <Original>Explosive Specialist</Original>
 		<Russian>Взрывотехник</Russian>
+        <Chinesesimp>爆破专家</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_resupply">
         <Original>Resupply With Crate</Original>
 		<Russian>Пополнить запасы из ящика</Russian>
+	<Chinesesimp>使用补给箱进行补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_arsenal">
         <Original>Arsenal</Original>
 		<Russian>Арсенал</Russian>
+        <Chinesesimp>军火库</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_nosupplydropnearby">
         <Original>No supplies nearby!</Original>
 		<Russian>Поблизости нет припасов!</Russian>
+        <Chinesesimp>附近没有补给！</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_invite">
         <Original>Invite %1</Original>
 		<Russian>Пригласить %1</Russian>
+        <Chinesesimp>邀请%1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_friendsmade">
         <Original>Acquaintance made</Original>
 		<Russian>Знакомство состоялось</Russian>
+        <Chinesesimp>结识了</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_trainingcomplete">
         <Original>Training Complete</Original>
 		<Russian>Обучение завершено</Russian>
+        <Chinesesimp>训练完成</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_invitereceived">
         <Original>Invite Received</Original>
 		<Russian>Приглашение получено</Russian>
+        <Chinesesimp>收到邀请</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_onetraitperplayer">
         <Original>You can only have one speciality at a time.</Original>
 		<Russian>Одновременно вы можете иметь только одну специальность.</Russian>
+        <Chinesesimp>你一次只能选择一个职业。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_onetraitperteam">
         <Original>Your team already has a player with that speciality.</Original>
 		<Russian>В вашей команде уже есть игрок с такой специализацией.</Russian>
+        <Chinesesimp>你的小队已经有了一个具有该职业的玩家。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_supplydroponstandby">
         <Original>Supply drops on standby, make sure no other supplies are near drop zone.</Original>
 		<Russian>Поставки забрасываются в режиме ожидания, убедитесь, что рядом с зоной заброски нет других поставок.</Russian>
+        <Chinesesimp>空投补给待命中，确保投放区附近没有其他补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_situation_room">
         <Original>Situation Room</Original>
 		<Russian>Ситуационный центр</Russian>
+	<Chinesesimp>简报室</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_checkpoint">
         <Original>Checkpoint</Original>
 		<Russian>Контрольная точка(КПП ?)</Russian>
+	<Chinesesimp>检查点</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_aid_post">
         <Original>Aid Post</Original>
 		<Russian>Медпункт</Russian>
+	<Chinesesimp>救助站</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_guardtower">
         <Original>Guard Tower</Original>
 		<Russian>Сторожевая вышка</Russian>
+        <Chinesesimp>哨塔</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_ammoresupply">
         <Original>Ammo Resupply Station</Original>
 		<Russian>Станция Боепитания</Russian>
+        <Chinesesimp>弹药补给站</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_repairresupply">
         <Original>Repair Station</Original>
 		<Russian>Станция Ремонта</Russian>
+        <Chinesesimp>维修站</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_fuelresupply">
         <Original>Fuel Station</Original>
 		<Russian>Заправочная станция</Russian>
+        <Chinesesimp>油料站</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_vehicle_workshop">
         <Original>Vehicle Workshop</Original>
 		<Russian>Автомастерская</Russian>
+        <Chinesesimp>车辆修理厂</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgebailey01">
         <Original>Bailey Bridge 1</Original>
 		<Russian>Мост Бейли 1</Russian>
+        <Chinesesimp>活动便桥1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgebailey02">
         <Original>Bailey Bridge 2</Original>
 		<Russian>Мост Бейли 2</Russian>
+        <Chinesesimp>活动便桥2</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgebailey03">
         <Original>Bailey Bridge 3</Original>
 		<Russian>Мост Бейли 3</Russian>
+        <Chinesesimp>活动便桥3</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgebailey04">
         <Original>Bailey Bridge 4</Original>
 		<Russian>Мост Бейли 4</Russian>
+        <Chinesesimp>活动便桥4</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgeramp01">
         <Original>Bridge Ramp</Original>
 		<Russian>Мостовая Рампа</Russian>
+        <Chinesesimp>桥面坡道</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgesmall01">
         <Original>Small Bridge 1</Original>
 		<Russian>Малый Мост 1</Russian>
+        <Chinesesimp>小型桥梁1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgesmall02">
         <Original>Small Bridge 2</Original>
 		<Russian>Малый Мост 2</Russian>
+        <Chinesesimp>小型桥梁2</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgesmall03">
         <Original>Small Bridge 3</Original>
 		<Russian>Малый Мост 3</Russian>
+        <Chinesesimp>小型桥梁3</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bridgesmall04">
         <Original>Small Bridge 4</Original>
 		<Russian>Малый Мост 4</Russian>
+        <Chinesesimp>小型桥梁4</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_school">
         <Original>School</Original>
 		<Russian>Школа</Russian>
+        <Chinesesimp>学校</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_drink_water">
         <Original>Drink Water</Original>
 		<Russian>Пить воду</Russian>
+	<Chinesesimp>喝水</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_eat_food">
         <Original>Eat Food</Original>
 		<Russian>Есть еду</Russian>
+	<Chinesesimp>干饭</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_repack">
         <Original>Repack</Original>
 		<Russian>Перепаковать</Russian>
+        <Chinesesimp>重新打包</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_drink">
         <Original>Drink</Original>
 		<Russian>Напиток</Russian>
+        <Chinesesimp>喝</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_take_medicine">
         <Original>Take Medicine</Original>
 		<Russian>Принять Лекарства</Russian>
+	<Chinesesimp>吃药</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_refill">
         <Original>Refill</Original>
 		<Russian>Пополнить</Russian>
+	<Chinesesimp>灌满</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_eat">
         <Original>Eat</Original>
 		<Russian>Кушать</Russian>
+        <Chinesesimp>吃</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_check_pulse">
         <Original>Check Pulse</Original>
 		<Russian>Проверить Пульс</Russian>
+        <Chinesesimp>检查脉搏</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_build">
         <Original>Build</Original>
 		<Russian>Построить</Russian>
+        <Chinesesimp>建造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_idle">
         <Original>Idle</Original>
 		<Russian>Незанятый</Russian>
+        <Chinesesimp>闲置</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_wreck">
         <Original>Wreck</Original>
 		<Russian>Разрушить</Russian>
+	<Chinesesimp>废墟</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_disabled">
         <Original>Disabled</Original>
 		<Russian>Отключен</Russian>
+        <Chinesesimp>禁用</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_vehicle_locked_to_team">
         <Original>This vehicle can't be used by your team</Original>
 		<Russian>Этот автомобиль не может быть использован вашей командой</Russian>
+	<Chinesesimp>你的队伍无法使用该载具</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_mike_force">
         <Original>PLEI MEI SF CAMP - MIKE FORCE</Original>
 		<Russian>ПЛЕЙ МЭЙ ЛАГЕРЬ СПЕЦНАЗ - МАЙК ФОРС</Russian>
+        <Chinesesimp>PLEI MEI特种部队营地——机动打击部队司令部</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_green_hornets">
         <Original>PLEIKU - GREEN HORNETS</Original>
 		<Russian>ПЛЕЙКУ - ЗЕЛЕНЫЕ ШЕРШНИ</Russian>
+        <Chinesesimp>PLEIKU——绿色大黄蜂(休伊直升机)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_spike_team">
         <Original>FOB2 KONTUM - SPIKE TEAM</Original>
 		<Russian>FOB2 КОНТУМ - КОМАНДА КОЛЮЧКА</Russian>
+        <Chinesesimp>FOB2 KONTUM——SPIKE TEAM</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_acav">
         <Original>FOB 5 BAN ME THUOT - ACAV</Original>
 		<Russian>FOB 5 БАН МЕ ТУОТ - ACAV</Russian>
+        <Chinesesimp>FOB 5 BAN ME THUOT——装甲运兵突击车(ACAV)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_mike_force_khe_sanh">
         <Original>KHE SANH SF CAMP - MIKE FORCE</Original>
 		<Russian>КХЕ ШАНЬ ЛАГЕРЬ СПЕЦНАЗ - МАЙК ФОРС</Russian>
+        <Chinesesimp>溪山特种部队营地——机动打击部队司令部</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_green_hornets_khe_sanh">
         <Original>KHE SANH SF CAMP - GREEN HORNETS</Original>
 		<Russian>КХЕ ШАНЬ ЛАГЕРЬ СПЕЦНАЗ - ЗЕЛЕНЫЕ ШЕРШНИ</Russian>
+        <Chinesesimp>溪山特种部队营地——绿色大黄蜂(休伊直升机)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_spike_team_khe_sanh">
         <Original>KHE SANH SF CAMP - SPIKE TEAM</Original>
 		<Russian>КХЕ ШАНЬ ЛАГЕРЬ СПЕЦНАЗ - КОМАНДА КОЛЮЧКА</Russian>
+        <Chinesesimp>溪山特种部队营地——SPIKE TEAM</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_respawn_acav_khe_sanh">
         <Original>KHE SANH SF CAMP - ACAV</Original>
 		<Russian>КХЕ ШАНЬ ЛАГЕРЬ СПЕЦНАЗ - ACAV</Russian>
+        <Chinesesimp>溪山特种部队营地——ACAV</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_supply_officer">
         <Original>Supply Officer</Original>
 		<Russian>Офицер снабжения</Russian>
+        <Chinesesimp>军需官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_duty_officer">
         <Original>Duty Officer</Original>
 		<Russian>Дежурный офицер</Russian>
+	<Chinesesimp>执勤官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_light_helicopters">
         <Original>Light Helicopters</Original>
 		<Russian>Легкие вертолеты</Russian>
+        <Chinesesimp>轻型直升机</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_helicopters">
         <Original>Helicopters</Original>
 		<Russian>Вертолёты</Russian>
+        <Chinesesimp>直升机</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_wreck_recovery">
         <Original>Wreck Recovery</Original>
 		<Russian>Восстановить Развалину</Russian>
+        <Chinesesimp>残骸回收</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rearm">
         <Original>Rearm</Original>
 		<Russian>Перевооружение</Russian>
+        <Chinesesimp>重新武装</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading1">
         <Original>writing diary entry...</Original>
 		<Russian>запись в дневнике...</Russian>
+	<Chinesesimp>写日记...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading2">
         <Original>checking pockets...</Original>
 		<Russian>проверка карманов...</Russian>
+	<Chinesesimp>翻裤兜...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading3">
         <Original>cleaning glasses...</Original>
 		<Russian>очистка линз...</Russian>
+	<Chinesesimp>擦眼镜...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading4">
         <Original>putting boots on...</Original>
 		<Russian>надеваю ботинки...</Russian>
+	<Chinesesimp>穿军靴...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading5">
         <Original>washing canteen...</Original>
 		<Russian>промывка фляги...</Russian>
+	<Chinesesimp>洗水壶...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading6">
         <Original>polishing spork...</Original>
 		<Russian>полировка вилки...</Russian>
+	<Chinesesimp>擦叉勺...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading7">
         <Original>putting on shades...</Original>
 		<Russian>наложение теней...</Russian>
+	<Chinesesimp>戴墨镜...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading8">
         <Original>dusting off shoulders...</Original>
 		<Russian>стряхивая пыль с плеч...</Russian>
+	<Chinesesimp>掸肩膀的土...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading9">
         <Original>shining boots...</Original>
 		<Russian>блестящие ботинки...</Russian>
+        <Chinesesimp>擦亮军靴...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_loading10">
         <Original>ready for action...</Original>
 		<Russian>готов к действию...</Russian>
+	<Chinesesimp>准备作战...</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_howtobuild">
         <Original>How to Build</Original>
 		<Russian>Как построить</Russian>
+        <Chinesesimp>如何建造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_howtobuild_long">
         <Original>Note: Engineer training required!&lt;br&gt;&lt;/br&gt;Press 'N' to enable/disable building.&lt;br&gt;&lt;/br&gt;Use mouse scroll wheel for adjustments, press Alt to cycle between height adjustment or rotation.&lt;br&gt;&lt;/br&gt;Press and hold 'Space' to finalize Build.</Original>
 		<Russian>Примечание: Требуется инженерная подготовка!&lt;br&gt;&lt;/br&gt;Нажмите 'N' чтобы вкл./откл. строительство.&lt;br&gt;&lt;/br&gt;Используйте колесо прокрутки мыши для регулировки, нажмите Alt, чтобы переключаться между регулировкой высоты или поворотом.&lt;br&gt;&lt;/br&gt;Нажмите и удерживайте клавишу 'Пробел', чтобы завершить стройку.</Russian>
+        <Chinesesimp>注意：需要进行工程兵培训！&lt;br&gt;&lt;/br&gt;按'N'来启用/禁用建造。&lt;br&gt;&lt;/br&gt;使用鼠标滚轮进行调整，按Alt键在高度调整或旋转之间切换。&lt;br&gt;&lt;/br&gt;按住空格以完成建造。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_other_keys">
         <Original>Other Key Binds</Original>
 		<Russian>Другие Привязки Клавиш</Russian>
+        <Chinesesimp>其他按键绑定</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_other_keys_long">
         <Original>Press 'Y' to use gesture menu ('Z' on QWERTZ keyboards).&lt;br&gt;&lt;/br&gt;Press 'H' to open task roster.&lt;br&gt;&lt;/br&gt;Press '6' to activate wheel menu.&lt;br&gt;&lt;/br&gt;</Original>
 		<Russian>Нажмите 'Y' чтобы использовать меню жестов ('Z' на клавиатурах QWERTZ).&lt;br&gt;&lt;/br&gt;Нажмите 'H' чтобы открыть список задач.&lt;br&gt;&lt;/br&gt;Нажмите '6' чтобы активировать меню колесика.&lt;br&gt;&lt;/br&gt;</Russian>
+        <Chinesesimp>按'Y'来使用手势菜单（QWERTZ布局键盘，按'Z'）。&lt;br&gt;&lt;/br&gt;按'H'键打开任务列表。&lt;br&gt;&lt;/br&gt;按'6'键激活滚轮菜单。&lt;br&gt;&lt;/br&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_restrictedzone">
         <Original>Cannot build in Restricted Zone!</Original>
 		<Russian>Нельзя строить в Запретной зоне!</Russian>
+        <Chinesesimp>禁止在限制区内建造！</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_purple_heart">
         <Original>Purple Heart</Original>
 		<Russian>Пурпурное Сердце</Russian>
+        <Chinesesimp>紫心勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_wound_medal">
         <Original>RVN Wound Medal</Original>
 		<Russian>RVN Медаль За Ранение</Russian>
+	<Chinesesimp>越南共和国战伤奖章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_distinguished_service_cross">
         <Original>Distinguished Service Cross</Original>
 		<Russian>Крест за Выдающиеся Заслуги</Russian>
+        <Chinesesimp>杰出服役十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_vietnam_gallantry_cross">
         <Original>Vietnam Gallantry Cross</Original>
 		<Russian>Вьетнамский Галантный Крест</Russian>
+        <Chinesesimp>越战英勇十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_defense_medal">
         <Original>RVN Defense Medal</Original>
 		<Russian>RVN Медаль за Оборону</Russian>
+	<Chinesesimp>南越共和国防御奖章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_combat_infantryman_badge">
         <Original>Combat Infantryman Badge</Original>
 		<Russian>Боевой Знак Пехотинца</Russian>
+        <Chinesesimp>作战步兵徽章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_bronze_star">
         <Original>Bronze Star</Original>
 		<Russian>Бронзовая Звезда</Russian>
+        <Chinesesimp>铜星勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_silver_star">
         <Original>Silver Star</Original>
 		<Russian>Серебряная Звезда</Russian>
+        <Chinesesimp>银星勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_air_medal">
         <Original>Air Medal</Original>
 		<Russian>Медаль ВВС</Russian>
+        <Chinesesimp>航空勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_distinguished_service_order">
         <Original>Distinguished Service Order</Original>
 		<Russian>Орден За Выдающиеся Заслуги</Russian>
+        <Chinesesimp>杰出服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_congressional_medalofhonor">
         <Original>Congressional Medal of Honor</Original>
 		<Russian>Медаль Почёта</Russian>
+        <Chinesesimp>荣誉勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_air_cross_of_gallantry">
         <Original>RVN Air Cross of Gallantry</Original>
 		<Russian>Вьетнамский Крест Воздушной Храбрости</Russian>
+        <Chinesesimp>南越空中勇士十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_vietnam_tet_campaign_commemorative_medal">
         <Original>Vietnam Tet Campaign Commemorative Medal</Original>
 		<Russian>Памятная медаль Вьетнамская Кампании Тет</Russian>
+	<Chinesesimp>越南春季攻势战役纪念章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_special_service_medal">
         <Original>RVN Special Service Medal</Original>
 		<Russian>RVN Медаль за Особые Заслуги</Russian>
+        <Chinesesimp>南越特别服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_national_defense_service_medal">
         <Original>National Defense Service Medal</Original>
 		<Russian>Медаль За Службу Национальной Обороны</Russian>
+        <Chinesesimp>国防服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_distinguished_flying_cross">
         <Original>Distinguished Flying Cross</Original>
 		<Russian>Крест Лётных Заслуг</Russian>
+        <Chinesesimp>杰出飞行十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_army_commendation_medal">
         <Original>Army Commendation Medal</Original>
 		<Russian>Армейская Похвальная медаль</Russian>
+        <Chinesesimp>陆军嘉奖勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_air_force_good_conduct_medal">
         <Original>Air Force Good Conduct Medal</Original>
 		<Russian>Медаль ВВС За Безупречную Службу</Russian>
+        <Chinesesimp>空军良好作战勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_air_force_cross">
         <Original>Air Force Cross</Original>
 		<Russian>Крест ВВС</Russian>
+        <Chinesesimp>空军十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_special_operations_medal">
         <Original>Special Operations Medal</Original>
 		<Russian>Медаль Специальные Операции</Russian>
+        <Chinesesimp>特种作战勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_army_presidential_unit_citation">
         <Original>Army Presidential Unit Citation</Original>
 		<Russian>Цитата из Президентского подразделения Армии</Russian>
+        <Chinesesimp>陆军总统集体勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_usaf_outstanding_unit_award">
         <Original>USAF Outstanding Unit Award</Original>
 		<Russian>Награда ВВС США за Выдающееся Подразделение</Russian>
+	<Chinesesimp>美国空军杰出集体勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_meritorious_unit_citation">
         <Original>Meritorious Unit Citation</Original>
 		<Russian>Похвальная Цитата Подразделения</Russian>
+	<Chinesesimp>功勋集体勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_meritorious_service_medal">
         <Original>Meritorious Service Medal</Original>
 		<Russian>Медаль За Заслуги</Russian>
+        <Chinesesimp>杰出服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_joint_service_commendation_medal">
         <Original>Joint Service Commendation Medal</Original>
 		<Russian>Медаль За Совместную Службу</Russian>
+        <Chinesesimp>联合服役嘉奖勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_legion_of_merit">
         <Original>Legion of Merit</Original>
 		<Russian>Орден Легион Почёта</Russian>
+        <Chinesesimp>荣誉勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_vietnam_service_medal">
         <Original>Vietnam Service Medal</Original>
 		<Russian>Медаль За службу во Вьетнаме</Russian>
+        <Chinesesimp>越战服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_republic_of_vietnam_campaign_medal">
         <Original>Republic of Vietnam Campaign Medal</Original>
 		<Russian>Медаль Кампании во Вьетнаме</Russian>
+        <Chinesesimp>越南共和国战争勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_gulf_of_tonkin_vietnam_commemorative_medal">
         <Original>Gulf of Tonkin Vietnam Commemorative Medal</Original>
 		<Russian>Вьетнамская памятная медаль Тонкинского залива</Russian>
+        <Chinesesimp>越南北部湾战斗纪念勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_navy_cross">
         <Original>Navy Cross</Original>
 		<Russian>Военно-Морской Крест</Russian>
+        <Chinesesimp>海军十字勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_training_service_medal">
         <Original>RVN Training Service Medal</Original>
 		<Russian>RVN Медаль Учебная служба</Russian>
+        <Chinesesimp>南越训练服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_technical_service_medal">
         <Original>RVN Technical Service Medal</Original>
 		<Russian>RVN Медаль Техническая Служба</Russian>
+        <Chinesesimp>南越技术服役勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_rvn_military_merit_first_republic_medal">
         <Original>RVN Military Merit First Republic Medal</Original>
 		<Russian>RVN Первая Республ. медаль За военные заслуги</Russian>
+        <Chinesesimp>南越第一共和国军功勋章</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_hud_interact">
         <Original>Interact</Original>
 		<Russian>Взаимодействие</Russian>
+        <Chinesesimp>互动</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_hud_toggledOff">
         <Original>You toggled off the interaction overlay.</Original>
 		<Russian>Вы ОТКЛ. наложение взаимодействия.</Russian>
+        <Chinesesimp>你停用了互动提示界面。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_hud_toggledOn">
         <Original>You toggled on the interaction overlay.</Original>
 		<Russian>Вы ВКЛ. наложение взаимодействия.</Russian>
+        <Chinesesimp>你启用了互动提示界面。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_interactionOverlay_toggle">
         <Original>Toggle Interaction Overlay</Original>
 		<Russian>Переключение наложения взаимодействия</Russian>
+        <Chinesesimp>切换互动提示界面</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_MikeForceDescription">
         <Original>As special forces infantry, your team's role is to:&lt;br/&gt;- Sweep and clear areas of enemy&lt;br/&gt;- Secure and hold zones&lt;br/&gt;- Protect populations, logistics and supplies&lt;br/&gt;- Reinforce other teams&lt;br/&gt;Tasks&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Primary Tasks are shared by all teams.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Secondary Tasks are unique to your team.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Support Tasks are called by other teams in need of your help. You may also request their support, for example transport is provided for you by ACAV or Green Hornets.</Original>
 		<Russian>Роль вашей команды, как пехоты спецназа, заключается в следующем:&lt;br/&gt;- Прочесывать и очищать районы от противника&lt;br/&gt;- Защита и удержание зон&lt;br/&gt;- Защита населения, логистика и снабжение&lt;br/&gt;- Усиление других команд&lt;br/&gt;Задачи&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Основные задачи являются общими для всех команд.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Второстепенные задачи являются уникальными для вашей команды.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Задания поддержки вызываются другими командами, нуждающимися в вашей помощи. Вы также можете обратиться к ним за поддержкой, например, транспорт для вас предоставит ACAV или Зелёные Шершни.</Russian>
+        <Chinesesimp>作为特种部队的步兵，你们的小队的角色是:&lt;br/&gt;- 扫荡和清理敌方区域&lt;br/&gt;- 夺取并控制区域&lt;br/&gt;- 保护人口、后勤和物资&lt;br/&gt;- 支援其他小队&lt;br/&gt;任务&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; 主要任务由所有小队共同承担。。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; 次要任务是你的小队所独有的。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; 支援任务由其他需要你帮助的小队呼叫申请。你也可以请求他们的支援，例如，由ACAV或绿色大黄蜂为你提供运输服务。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_SpikeTeamDescription">
         <Original>As special forces recon, your team's role is to:&lt;br/&gt;- Carry out reconnaissance to locate enemy infrastructure&lt;br/&gt;- Ambush and assault the enemy&lt;br/&gt;- Direct air and armour support onto enemy concentrations&lt;br/&gt;- Support other teams with reconnaissance and search and rescue&lt;br/&gt;Tasks&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Primary Tasks are shared by all teams. &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Secondary Tasks are unique to your team.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Support Tasks are called by other teams in need of your help. You may also request their support, for example transport is provided for you by ACAV or Green Hornets.</Original>
 		<Russian>Роль вашей команды, как разведки спецназа, заключается в следующем:&lt;br/&gt;- Проведение разведки для обнаружения инфраструктуры противника&lt;br/&gt;- Засады и нападение на противника&lt;br/&gt;- Наведение воздушной и бронетанковой поддержки на скопления противника&lt;br/&gt;- Оказывать поддержку другим командам в проведении разведки и поисково-спасательных работ&lt;br/&gt;Задачи&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Основные задачи являются общими для всех команд. &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Второстепенные задачи являются уникальными для вашей команды.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Задания поддержки вызываются другими командами, нуждающимися в вашей помощи. Вы также можете обратиться к ним за поддержкой, например, транспорт для вас предоставит ACAV или Зелёные Шершни.</Russian>
+        <Chinesesimp>作为特种部队的侦察兵，你们的小队的角色是:&lt;br/&gt;- 进行侦察以确定敌人基础设施的位置&lt;br/&gt;- 伏击和攻击敌人&lt;br/&gt;- 指引空军和装甲部队打击敌军集结点&lt;br/&gt;- 支援其他队伍进行侦察、搜索和救援&lt;br/&gt;任务&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; 主要任务由所有小队共同承担。 &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; 次要任务是你的小队所独有的。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; 支援任务由其他需要你帮助的小队呼叫申请。你也可以请求他们的支援，例如，由ACAV或绿色大黄蜂为你提供运输服务。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_GreenHornetsTeamDescription">
         <Original>As a Green Hornet, your team's role is to fly helicopters and jets to:&lt;br/&gt;- Insert and extract troops to their desired location&lt;br/&gt;- Carry out aerial reconnaissance to find enemy infrastructure&lt;br/&gt;- Support other teams with close air support&lt;br/&gt;- Deliver supplies to build new infrastructure&lt;br/&gt;- Engage enemy aircraft&lt;br/&gt;Tasks&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Primary Tasks are shared by all teams.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Secondary Tasks are unique to your team.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Support Tasks are called by other teams in need of your help. You may also request their support, for example search and rescue is provided for you by Spike Team.</Original>
 		<Russian>Как Зеленый Шершень, роль вашей команды состоит в том, чтобы управлять вертолетами и реактивными самолетами, чтобы:&lt;br/&gt;- Заброска и эвакуация войск в нужное место&lt;br/&gt;- Проведение воздушной разведки для обнаружения инфраструктуры противника&lt;br/&gt;- Оказывать поддержку другим командам с помощью ближней авиационной поддержки&lt;br/&gt;- Доставлять материалы для строительства новой инфраструктуры&lt;br/&gt;- Поражать вражескую авиацию&lt;br/&gt;Задачи&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Основные задачи являются общими для всех команд.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Второстепенные задачи являются уникальными для вашей команды.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Задания поддержки вызываются другими командами, нуждающимися в вашей помощи. Вы также можете запросить их поддержку, например, поиск и спасение для вас обеспечивает команда Колючка.</Russian>
+        <Chinesesimp>作为一名绿色大黄蜂的飞行员，你们的小队的角色是:&lt;br/&gt;- 运输或撤离兵员到规划的位置&lt;br/&gt;- 执行空中侦察，寻找敌人的基础设施&lt;br/&gt;- 近距离空中支援(CAS)其他小队&lt;br/&gt;- 运送物资以建设新基础设施&lt;br/&gt;- 与敌机交战&lt;br/&gt;任务&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; 主要任务由所有小队共同承担。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; 次要任务是你的小队所独有的。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; 支援任务由其他需要你帮助的小队呼叫申请。你也可以请求他们的支援，例如，由Spike小队为您提供搜索和救援任务。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_ArmouredCavalryDescription">
         <Original>As Armoured Cavalry, your team's role is to operate trucks and tanks to:&lt;br/&gt;- Insert and extract troops to their desired location&lt;br/&gt;- Support other teams with heavy weapons vehicles&lt;br/&gt;- Deliver supplies and build new infrastructure&lt;br/&gt;- Engage enemy vehicles and armour&lt;br/&gt;Tasks&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Primary Tasks are shared by all teams. &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Secondary Tasks are unique to your team.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Support Tasks are called by other teams in need of your help. You may also request their support, for example vehicle recovery or convoy protection is provided for you by Green Hornets.</Original>
 		<Russian>В роли бронекавалерии (ACAV) ваша команда должна управлять грузовиками и танками:&lt;br/&gt;- Доставка и эвакуация войск в нужное место&lt;br/&gt;- Поддержка других команд с помощью техники с тяжелым вооружением&lt;br/&gt;- Доставлять материалы и строить новую инфраструктуру&lt;br/&gt;- Поражать вражеский транспорт и бронетехнику&lt;br/&gt;Задачи&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; Основные задачи являются общими для всех команд. &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; Второстепенные задачи являются уникальными для вашей команды.&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; Задания поддержки вызываются другими командами, нуждающимися в вашей помощи. Вы также можете запросить их поддержку, например, эвакуация транспортных средств или охрана конвоя обеспечивается для вас командой Зелёные Шершни.</Russian>
+        <Chinesesimp>作为装甲兵，你们的小队的作用是操作卡车和坦克来:&lt;br/&gt;- 运输或撤离兵员到规划的位置&lt;br/&gt;- 用重型武装车辆支援其他小队&lt;br/&gt;- 运送物资，建设新基础设施&lt;br/&gt;- 与敌方车辆和装甲交战&lt;br/&gt;任务&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_primary.paa'/&gt; 主要任务由所有小队共同承担。 &lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_secondary.paa'/&gt; 次要任务是你的小队所独有的。&lt;br/&gt;- &lt;img color='#CC000000' image='\vn\ui_f_vietnam\ui\taskroster\img\icons\vn_icon_task_support.paa'/&gt; 支援任务由其他需要你帮助的小队呼叫申请。你也可以请求他们的支援，例如，由绿色大黄蜂为您提供车辆恢复或车队保护。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_rolesHeaderName">
         <Original>Role</Original>
 		<Russian>Роли</Russian>
+        <Chinesesimp>角色</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_rolesHeaderTasks">
         <Original>Tasks</Original>
 		<Russian>Задачи</Russian>
+        <Chinesesimp>任务</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_rolesHeaderPlayers">
         <Original>Players</Original>
 		<Russian>Игроки</Russian>
+        <Chinesesimp>玩家</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_medicTasks">
         <Original>Healing, Humanitarian</Original>
 		<Russian>Исцеление, Гуманитарные</Russian>
+        <Chinesesimp>医疗，人道救助</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_engineerTasks">
         <Original>Building</Original>
 		<Russian>Строительство</Russian>
+        <Chinesesimp>建造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_explosive_specialistTasks">
         <Original>Demolition, mining, de-mining</Original>
 		<Russian>Снос, минирование, разминирование</Russian>
+        <Chinesesimp>爆破、布雷、排雷</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_assaultpilotTasks">
         <Original>Flying gunship/ jet</Original>
 		<Russian>Летающий Ганшип/самолет</Russian>
+        <Chinesesimp>驾驶武装直升机/固定翼</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_requestButton">
         <Original>REQUEST</Original>
 		<Russian>ЗАПРОС</Russian>
+        <Chinesesimp>请求</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_taskRoster_Main_teamWelcome">
         <Original>Welcome to:&lt;br/&gt;%1</Original>
 		<Russian>Добро пожаловать в:&lt;br/&gt;%1</Russian>
+        <Chinesesimp>欢迎来到:&lt;br/&gt;%1</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_title">
         <Original>Resupply: Ammo</Original>
 		<Russian>Пополнение: Боеприпасы</Russian>
+        <Chinesesimp>补给: 弹药</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_desc">
         <Original>Transport the supplies to the position provided by %1.</Original>
 		<Russian>Транспортируйте припасы на позицию, указанную %1.</Russian>
+        <Chinesesimp>将物资运送到%1所指定的地点。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_deliver_crate_title">
         <Original>Deliver Resupply Crate</Original>
 		<Russian>Доставить ящик с Припасами</Russian>
+        <Chinesesimp>运送补给箱</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_deliver_crate_desc">
         <Original>Deliver the resupply crate to the units that need it.</Original>
 		<Russian>Доставьте ящик с припасами подразделениям, которые в нем нуждаются.</Russian>
+        <Chinesesimp>运送补给箱到需要的单位那。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_requesterDesc">
         <Original>Request ammo supplies be dropped at a specific location.</Original>
 		<Russian>Запросите доставку боеприпасов в определенное место.</Russian>
+        <Chinesesimp>请求在指定地点投放弹药补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_medical_title">
         <Original>Resupply: Medical</Original>
 		<Russian>Пополнение: Медикаменты</Russian>
+        <Chinesesimp>补给: 医疗物资</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_medical_requesterDesc">
         <Original>Request medical supplies be dropped at a specific location.</Original>
 		<Russian>Запросите доставку медикаментов в определенное место.</Russian>
+        <Chinesesimp>请求在指定地点投放医疗补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_food_title">
         <Original>Resupply: Food</Original>
 		<Russian>Пополнение: Еда</Russian>
+        <Chinesesimp>补给: 食物</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_food_requesterDesc">
         <Original>Request food supplies be dropped at a specific location.</Original>
 		<Russian>Запросите, чтобы запасы продовольствия были доставлены в определенное место.</Russian>
+        <Chinesesimp>请求在指定地点投放食物补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_building_materials_title">
         <Original>Resupply: Building Materials</Original>
 		<Russian>Пополнение: Стройматериалы</Russian>
+        <Chinesesimp>补给: 建筑材料</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_building_materials_requesterDesc">
         <Original>Request building materials be dropped at a specific location.</Original>
 		<Russian>Запросите доставку строительных материалов в определенное место.</Russian>
+        <Chinesesimp>请求在指定地点投放建筑材料补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_workshop_title">
         <Original>Resupply: Workshop</Original>
 		<Russian>Пополнение: Мастерская</Russian>
+        <Chinesesimp>补给: 维修车间</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_task_support_resupply_workshop_requesterDesc">
         <Original>Request workshop supplies be dropped at a specific location.</Original>
 		<Russian>Попросите, чтобы материалы мастерской были сброшены в определенном месте.</Russian>
+        <Chinesesimp>请求在指定地点投放维修车间补给。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_player_markers_vehicle_marker">
         <Original>%1 (%2%3)</Original>
-		<Russian>%1 (%2%3)</Russian>
+        <Russian>%1 (%2%3)</Russian>
+        <Chinesesimp>%1 (%2%3)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_add_sandbag">
         <Original>Add Sandbag</Original>
         <English>Add Sandbag</English>
-		<Russian>Добавить мешок с песком</Russian>
+        <Russian>Добавить мешок с песком</Russian>
+        <Chinesesimp>增加沙袋</Chinesesimp>
       </Key>
     </Container>
     <Container name="interaction_overlay">
       <Key ID="STR_vn_mf_overlay_duty_officer_name">
-        <Original>Duty Officer</Original>
-		<Russian>Дежурный Офицер</Russian>
+         <Original>Duty Officer</Original>
+        <Russian>Дежурный Офицер</Russian>
+	 <Chinesesimp>执勤官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_duty_officer_description">
         <Original>Change teams or train in a role, such as engineer.</Original>
 		<Russian>Меняйте команды или тренируйтесь в какой-либо роли, например в качестве инженера.</Russian>
+	<Chinesesimp>切换团队或培训角色，例如工程兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_fast_travel_name">
         <Original>Fast Travel</Original>
 		<Russian>Быстрое Перемещение</Russian>
+        <Chinesesimp>快速旅行</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_fast_travel_description">
         <Original>Teleport to the bases of each team</Original>
 		<Russian>Телепортируйтесь на базы любой команды</Russian>
+        <Chinesesimp>传送到各小队的基地</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_supply_officer_name">
         <Original>Supply Officer</Original>
 		<Russian>Офицер Снабжения</Russian>
+        <Chinesesimp>军需官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_supply_officer_description">
         <Original>Request supplies, such as building supplies, food or ammunition.</Original>
 		<Russian>Запросите предметы снабжения, такие как строительные материалы, продовольствие или боеприпасы.</Russian>
+        <Chinesesimp>请求补给，如建筑材料供应，食物或弹药。</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_base">
         <Original>Base: %1</Original>
 		<Russian>База: %1</Russian>
+        <Chinesesimp>基地：%1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_standalone">
         <Original>Standalone</Original>
 		<Russian>Автономный</Russian>
+        <Chinesesimp>独立作战</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_status">
         <Original>Status: %1</Original>
 		<Russian>Статус: %1</Russian>
+        <Chinesesimp>状况: %1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_build_progress">
         <Original>Build Progress: %2%1</Original>
 		<Russian>Прогресс Строительства: %2%1</Russian>
+        <Chinesesimp>建造进度：%2%1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_percentage_filled">
         <Original>Percentage Filled: %2%1</Original>
 		<Russian>Процент Заполнения: %2%1</Russian>
+	<Chinesesimp>已经完成： %2%1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_current_supplies">
         <Original>Current Supplies: %1</Original>
 		<Russian>Текущие Поставки: %1</Russian>
+	<Chinesesimp>当前物资： %1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_supplies_until_full">
         <Original>Supplies Until Full: %1</Original>
 		<Russian>Поставки до полного заполнения: %1</Russian>
+        <Chinesesimp>补给(直到物资满载): %1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_supply_capacity">
         <Original>Supply Capacity: %1</Original>
 		<Russian>Емкость Снабжения: %1</Russian>
+	<Chinesesimp>补给能力： %1</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_lifetime">
         <Original>Time Until Decay: %1 hours %2 minutes</Original>
 		<Russian>Время до разложения: %1 часов %2 минут</Russian>
+	<Chinesesimp>建筑损耗时间：%1 小时 %2 分钟</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_good">
         <Original>Good</Original>
-        <English>Good</English>
-		<Russian>Хорошо</Russian>
+        <Russian>Хорошо</Russian>
+	<Chinesesimp>完好</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_decaying">
         <Original>Decaying</Original>
-        <English>Decaying</English>
-		<Russian>Разложение</Russian>
+        <Russian>Разложение</Russian>
+	<Chinesesimp>正在损耗</Chinesesimp>
       </Key>
     </Container>
     <Container name="notifications">
       <Key ID="STR_vn_mf_notification_title_training">
         <Original>Training</Original>
 		<Russian>Тренировка</Russian>
+        <Chinesesimp>训练</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_vehicle_locked">
         <Original>Vehicle Locked</Original>
 		<Russian>Техника Заблокирована</Russian>
+	<Chinesesimp>车辆已锁</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_new_support_request">
         <Original>New Support Request</Original>
 		<Russian>Новый Запрос Поддержки</Russian>
+        <Chinesesimp>新的支援请求</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_zone_completed">
         <Original>Zone Completed</Original>
 		<Russian>Зона Завершена</Russian>
+        <Chinesesimp>已完成的地区</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_support_transport">
         <Original>Squad Transport</Original>
 		<Russian>Транспорт Отряда</Russian>
+        <Chinesesimp>小队运输</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_transport_all_onboard">
         <Original>All Players Onboard</Original>
 		<Russian>Все Игроки на Борту</Russian>
+        <Chinesesimp>所有玩家已登车/机</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_transport_players_dead">
         <Original>All Players Dead</Original>
 		<Russian>Все Игроки Погибли</Russian>
+	<Chinesesimp>全员暴毙</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_transport_too_close">
         <Original>Drop-off Too Close</Original>
 		<Russian>Высадка Слишком Близко</Russian>
+        <Chinesesimp>运输距离过近</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_transport_wrong_location">
         <Original>Wrong Location</Original>
 		<Russian>Неправильное Местоположение</Russian>
+        <Chinesesimp>地点错误</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_transport_complete">
         <Original>Transport Complete</Original>
-		<Russian></Russian>
+        
+        <Chinesesimp>运输已完成</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_support_task_created">
         <Original>Support Task Created</Original>
 		<Russian>Создано Задание Поддержки</Russian>
+        <Chinesesimp>创建支援任务</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_counter_attack">
         <Original>Counter-attack</Original>
-        <English>Counter-attack</English>
-		<Russian>Контратака</Russian>
+        <Russian>Контратака</Russian>
+	<Chinesesimp>反攻</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_preparing">
         <Original>The enemy will counter-attack in %2 minutes</Original>
-        <English>The enemy will counter-attack in %2 minutes</English>
-		<Russian>Противник контратакует через %2 мин.</Russian>
+        <Russian>Противник контратакует через %2 мин.</Russian>
+        <Chinesesimp>敌人将在 %2 分钟后反攻。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_imminent">
         <Original>Enemy counter-attack is imminent!</Original>
-        <English>Enemy counter-attack is imminent!</English>
-		<Russian>Контратака противника неизбежна!</Russian>
+	<Russian>Контратака противника неизбежна!</Russian>        
+        <Chinesesimp>敌人的反攻迫在眉睫!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_base_attack">
         <Original>FOB Attack</Original>
-        <English>FOB Attack</English>
-		<Russian>FOB Атакован</Russian>
+        <Russian>FOB Атакован</Russian>
+        <Chinesesimp>FOB被袭</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_base_attack_preparing">
         <Original>The enemy will attack an FOB in %2 minutes</Original>
-        <English>The enemy will attack an FOB in %2 minutes</English>
-		<Russian>Противник атакует FOB через %2 мин.</Russian>
+	<Russian>Противник атакует FOB через %2 мин.</Russian>        
+        <Chinesesimp>敌人将在 %2 分钟后袭击FOB</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_base_attack_imminent">
         <Original>Enemy attack on FOB is imminent!</Original>
-        <English>Enemy attack on FOB is imminent!</English>
-		<Russian>Атака противника на FOB неизбежна!</Russian>
+        <Russian>Атака противника на FOB неизбежна!</Russian>
+	<Chinesesimp>敌军正在进攻FOB!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_shortened">
         <Original>All critical tasks completed. Enemy counter attack in %2 minutes.</Original>
-        <English>All critical tasks completed. Enemy counter attack in %2 minutes.</English>
-		<Russian>Все важные задачи выполнены. Контратака противника через %2 минуты.</Russian>
+        <Russian>Все важные задачи выполнены. Контратака противника через %2 минуты.</Russian>
+        <Chinesesimp>所有关键任务已完成。敌人将在 %2 分钟内发起反攻。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_no_sandbag">
         <Original>No sandbags in inventory</Original>
-        <English>No sandbags in inventory</English>
-		<Russian>Нет мешков с песком в инвентаре</Russian>
+        <Russian>Нет мешков с песком в инвентаре</Russian>
+        <Chinesesimp>库存中没有沙袋</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_sandbags_not_allowed">
         <Original>Sandbags cannot be used on this building</Original>
-        <English>Sandbags cannot be used on this building</English>
-		<Russian>В этом здании нельзя использовать мешки с песком.</Russian>
+        <Russian>В этом здании нельзя использовать мешки с песком.</Russian>
+        <Chinesesimp>沙袋不能用于该建筑上</Chinesesimp>
       </Key>
       <Key ID="STR_para_build_cantresupplyunbuiltbuilding">
         <Original>You can't resupply an unbuilt building</Original>
-        <English>You can't resupply an unbuilt building</English>
-		<Russian>Вы не можете пополнить запасы не построенного здания</Russian>
+        <Russian>Вы не можете пополнить запасы не построенного здания</Russian>
+        <Chinesesimp>你不能对未建成的建筑进行再补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_empty_food_item">
         <Original>Empty Food Item</Original>
+        <Russian>Пустой Предмет Питания</Russian>
         <English>Empty Food Item</English>
-		<Russian>Пустой Предмет Питания</Russian>
+	<Chinesesimp>空的食物</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_empty_food_item">
         <Original>The container is empty</Original>
+        <Russian>Контейнер пуст</Russian>
         <English>The container is empty</English>
-		<Russian>Контейнер пуст</Russian>
+	<Chinesesimp>容器是空的</Chinesesimp>
       </Key>
     </Container>
     <Container name="building">
       <Key ID="STR_para_building_position">
         <Original>Position</Original>
-        <English>Position</English>
-		<Russian>Позиция</Russian>
+        <Russian>Позиция</Russian>
+        <Chinesesimp>安放</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_rotation">
         <Original>Rotation</Original>
-        <English>Rotation</English>
-		<Russian>Вращение</Russian>
+	<Russian>Вращение</Russian>        
+        <Chinesesimp>旋转</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_height">
         <Original>Height</Original>
-        <English>Height</English>
-		<Russian>Высота</Russian>
+        <Russian>Высота</Russian>
+        <Chinesesimp>高度</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_hint_header">
         <Original>Building Placement</Original>
-        <English>Building Placement</English>
-		<Russian>Размещение Строений</Russian>
+        <Russian>Размещение Строений</Russian>
+	<Chinesesimp>建筑摆放</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_hint_body">
         <Original>&lt;t color='#23aa50'&gt;[LMB]/[RMB]&lt;/t&gt; to cycle placement mode.&lt;br/&gt;&lt;br/&gt;Building can be placed with the 'build' action when the building is green. Buildings must not be colliding, and must be placed on a surface.</Original>
-        <English>&lt;t color='#23aa50'&gt;[LMB]/[RMB]&lt;/t&gt; to cycle placement mode.&lt;br/&gt;&lt;br/&gt;Building can be placed with the 'build' action when the building is green. Buildings must not be colliding, and must be placed on a surface.</English>
-		<Russian>&lt;t color='#23aa50'&gt;[ЛКМ]/[ПКМ]&lt;/t&gt; для циклического режима размещения.&lt;br/&gt;&lt;br/&gt;Здание может быть размещено с помощью действия 'Построить', когда здание зеленое. Здания не должны сталкиваться и должны быть размещены на поверхности.</Russian>
-      </Key>
+        <Russian>&lt;t color='#23aa50'&gt;[ЛКМ]/[ПКМ]&lt;/t&gt; для циклического режима размещения.&lt;br/&gt;&lt;br/&gt;Здание может быть размещено с помощью действия 'Построить', когда здание зеленое. Здания не должны сталкиваться и должны быть размещены на поверхности.</Russian>
+        <Chinesesimp>&lt;t color='#23aa50'&gt;[鼠标左键]/[鼠标右键]&lt;/t&gt; 循环放置模式。&lt;br/&gt;&lt;br/&gt;当建筑为绿色时，可以用"建造"动作来放置建筑。建筑物不能有碰撞，且必须放置在一个表面上。</Chinesesimp>
+	  </Key>
       <Key ID="STR_para_building_placing_in_progress">
         <Original>Placing Building</Original>
-        <English>Placing Building</English>
-		<Russian>Размещение Здания</Russian>
+        <Russian>Размещение Здания</Russian>
+        <Chinesesimp>放置建筑中</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_condition_hasRank">
         <Original>Has Rank</Original>
 		<Russian>Имеет Ранг</Russian>
+        <Chinesesimp>军衔</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_condition_isEngineer">
         <Original>Is an Engineer</Original>
 		<Russian>Является Инженером</Russian>
+        <Chinesesimp>是一名工程兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_condition_rnFoot">
         <Original>On Foot</Original>
 		<Russian>Пешком</Russian>
+        <Chinesesimp>步行</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_condition_inRestrictedZone">
         <Original>Restricted Zone</Original>
 		<Russian>Запретная Зона</Russian>
+	<Chinesesimp>限制区域</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_costs">
         <Original>Costs</Original>
 		<Russian>Расходы</Russian>
+	<Chinesesimp>造价</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_per_hour">
         <Original>per hour</Original>
 		<Russian>в час</Russian>
+        <Chinesesimp>每小时</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_total_capacity">
         <Original>total capacity</Original>
 		<Russian>общая ёмкость</Russian>
+        <Chinesesimp>总容量</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_pageAbrev">
         <Original>p.</Original>
-		<Russian>p.</Russian>
+        <Russian>p.</Russian>
+        <Chinesesimp>页.</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_build">
         <Original>Build</Original>
 		<Russian>Построить</Russian>
+        <Chinesesimp>建造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_nextPage">
         <Original>Next page</Original>
 		<Russian>Следующая страница</Russian>
+        <Chinesesimp>下一页</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_previousPage">
         <Original>Previous page</Original>
 		<Russian>Предыдущая страница</Russian>
+        <Chinesesimp>上一页</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_ui_title">
         <Original>Building Menu</Original>
 		<Russian>Меню Строительства</Russian>
+        <Chinesesimp>建造菜单</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_conditions">
         <Original>Conditions</Original>
 		<Russian>Условия</Russian>
+        <Chinesesimp>状态</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_selector">
         <Original>Wheel Menu</Original>
 		<Russian>Меню Колеса</Russian>
+        <Chinesesimp>滚轮菜单</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_debug_monitor">
         <Original>Toggle Debug Monitor</Original>
 		<Russian>Переключение Монитора Отладки</Russian>
+        <Chinesesimp>切换调试监控器</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_task_roster">
         <Original>Task Roster</Original>
 		<Russian>Список Задач</Russian>
+        <Chinesesimp>任务清单</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_build_mode">
         <Original>Building Mode</Original>
 		<Russian>Режим Строительства</Russian>
+        <Chinesesimp>建造模式</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category">
         <Original>Category:</Original>
-        <English>Category:</English>
-		<Russian>Категория:</Russian>
+        <Russian>Категория:</Russian>
+        <Chinesesimp>类别：</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_search">
         <Original>Search:</Original>
-        <English>Search:</English>
-		<Russian>Поиск:</Russian>
+        <Russian>Поиск:</Russian>
+        <Chinesesimp>搜索:</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_showLocked">
         <Original>Show Locked:</Original>
-        <English>Show Locked:</English>
-		<Russian>Показать Заблокировано:</Russian>
+        <Russian>Показать Заблокировано:</Russian>
+        <Chinesesimp>显示锁定的建筑：</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_search">
         <Original>Search</Original>
-        <English>Search</English>
-		<Russian>Поиск</Russian>
+        <Russian>Поиск</Russian>
+        <Chinesesimp>搜索</Chinesesimp>
       </Key>
 
       <Key ID="STR_vn_mf_buildingMenu_condition_inACav">
         <Original>In ACav</Original>
-        <English>In ACav</English>
-		<Russian>В ACav</Russian>
+        <Russian>В ACav</Russian>
+	<Chinesesimp>在装甲骑兵中</Chinesesimp>
       </Key>
     </Container>
     <Container name="params">
       <Key ID="STR_vn_mf_param_wipe_save">
         <Original>==== Delete Save ====</Original>
-        <English>==== Delete Save ====</English>
-		<Russian>==== Удалить Сохранение ====</Russian>
+        <Russian>==== Удалить Сохранение ====</Russian>
+	<Chinesesimp>==== 删除存档 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_wipe_save_desc">
         <Original>[WARNING] Deletes your saved game. This will delete all progress (ranks and map)!</Original>
-        <English>[WARNING] Deletes your saved game. This will delete all progress (ranks and map)!</English>
-		<Russian>[ПРЕДУПРЕЖДЕНИЕ] Удаляет сохраненную игру. Это приведет к удалению всего прогресса (рангов и карты)!</Russian>
+        <Russian>[ПРЕДУПРЕЖДЕНИЕ] Удаляет сохраненную игру. Это приведет к удалению всего прогресса (рангов и карты)!</Russian>
+	<Chinesesimp>[警告]删除你所保存的游戏。这将删除所有的进度(军衔和地图)!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_enable_ranks">
         <Original>==== Enable Rank System [Under Development] ====</Original>
-        <English>==== Enable Rank System [Under Development] ====</English>
-		<Russian>==== Включить Систему Рангов [В разработке] ====</Russian>
+        <Russian>==== Включить Систему Рангов [В разработке] ====</Russian>
+        <Chinesesimp>==== 启用军衔制度[正在开发中] ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hard_ai_limit">
         <Original>==== Hard AI Limit ====</Original>
-        <English>==== Hard AI Limit ====</English>
-		<Russian>==== Жесткий Лимит ИИ ====</Russian>
+        <Russian>==== Жесткий Лимит ИИ ====</Russian>
+        <Chinesesimp>==== 硬性AI限制 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hard_ai_limit_desc">
         <Original>[High performance impact] The maximum number of AI the mission will ever have simultaneously.</Original>
-        <English>[High performance impact] The maximum number of AI the mission will ever have simultaneously.</English>
-		<Russian>[Высокое влияние на производительность] Максимальное количество ИИ, которое миссия будет иметь одновременно.</Russian>
+        <Russian>[Высокое влияние на производительность] Максимальное количество ИИ, которое миссия будет иметь одновременно.</Russian>
+	<Chinesesimp>[高性能影响]任务将同时拥有的最大AI数量</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_enable_ranks_desc">
         <Original>Restrict vehicles/weapons based on rank. Recommended to reduce griefing.</Original>
-        <English>Restrict vehicles/weapons based on rank. Recommended to reduce griefing.</English>
-		<Russian>Ограничить транспорт/оружие в зависимости от ранга. Рекомендуется для уменьшения числа griefing(игроков-придурков).</Russian>
+        <Russian>Ограничить транспорт/оружие в зависимости от ранга. Рекомендуется для уменьшения числа griefing(игроков-придурков).</Russian>
+        <Chinesesimp>根据军衔限制车辆/武器使用。推荐启用，以减少恶意破坏事件。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_allow_map_markers">
         <Original>==== Enable Map Markers ====</Original>
+        <Russian>==== Включить Маркеры на Карте ====</Russian>
         <English>==== Enable Map Markers ====</English>
-		<Russian>==== Включить Маркеры на Карте ====</Russian>
+	<Chinesesimp>==== 启用地图标记 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_allow_map_markers_desc">
         <Original>Toggle player map markers</Original>
+        <Russian>Переключение маркеров карты игрока</Russian>
         <English>Toggle player map markers</English>
-		<Russian>Переключение маркеров карты игрока</Russian>
+	<Chinesesimp>切换玩家地图标记</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_dawn_length">
         <Original>==== Dawn Length ====</Original>
+        <Russian>==== Длительность Рассвета ====</Russian>
         <English>==== Dawn Length ====</English>
-		<Russian>==== Длительность Рассвета ====</Russian>
+	<Chinesesimp>==== 黎明时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_day_length">
         <Original>==== Day Length ====</Original>
+        <Russian>==== Длительность Дня ====</Russian>
         <English>==== Day Length ====</English>
-		<Russian>==== Длительность Дня ====</Russian>
+	<Chinesesimp>==== 白天时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_dusk_length">
         <Original>==== Dusk Length ====</Original>
+        <Russian>==== Длина Сумерек ====</Russian>
         <English>==== Dusk Length ====</English>
-		<Russian>==== Длина Сумерек ====</Russian>
+	<Chinesesimp>==== 黄昏时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_night_length">
         <Original>==== Night Length ==== </Original>
+        <Russian>==== Длительность Ночи ==== </Russian>
         <English>==== Night Length ====</English>
-		<Russian>==== Длительность Ночи ==== </Russian>
+	<Chinesesimp>==== 夜晚时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildables_require_vehicles">
         <Original>==== Resupply buildings require vehicles ====</Original>
+        <Russian>==== Снабжение зданий требует транспорт ====</Russian>
         <English>==== Resupply buildings require vehicles ====</English>
-		<Russian>==== Снабжение зданий требует транспорт ====</Russian>
+	<Chinesesimp>==== 补给建筑需要车辆 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildables_require_vehicles_desc">
         <Original>Should vehicles be required to build resupply buildings [Not Advised].</Original>
+        <Russian>Если для строительства зданий для пополнения запасов потребуются транспортные средства [Не рекомендуется].</Russian>
         <English>Should vehicles be required to build resupply buildings [Not Advised].</English>
-		<Russian>Если для строительства зданий для пополнения запасов потребуются транспортные средства [Не рекомендуется].</Russian>
+	<Chinesesimp>是否需要车辆来建造补给建筑物[不建议].</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_ai_quantity">
         <Original>==== AI Quantity ====</Original>
+        <Russian>==== Количество ИИ ====</Russian>
         <English>==== AI Quantity ====</English>
-		<Russian>==== Количество ИИ ====</Russian>
+	<Chinesesimp>==== AI数量 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_always_allow_withstand">
         <Original>==== Allow Withstanding ====</Original>
+        <Russian>==== Позволить Противостояние ====</Russian>
         <English>==== Allow Withstanding ====</English>
-		<Russian>==== Позволить Противостояние ====</Russian>
+        <Chinesesimp>==== 允许抵抗 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_always_allow_withstand_desc">
-        <Original>Enable withstand with friendlies nearby</Original>
-        <English>Enable withstand with friendlies nearby</English>
-		<Russian>Включить противостояние с товарищами поблизости</Russian>
+        <Original>Toggles whether withstand is always available, or only when alone.</Original>
+        <Russian>Включить противостояние с товарищами поблизости</Russian>
+        <Chinesesimp>切换抵抗是否始终可用或只在单独时可用。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_sandbag_value">
         <Original>==== Sandbag Supplies Quantity ====</Original>
-        <English>==== Sandbag Supplies Quantity ====</English>
-		<Russian>==== Кол-во Поставок мешков с песком ====</Russian>
+        <Russian>==== Кол-во Поставок мешков с песком ====</Russian>
+        <Chinesesimp>==== 沙袋供应数量 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_sandbag_value_desc">
         <Original>The building supplies value of sandbags carried in the inventory.</Original>
-        <English>The building supplies value of sandbags carried in the inventory.</English>
-		<Russian>Кол-во Стойматериалов из мешков с песком переносимых в инвентаре.</Russian>
+        <Russian>Кол-во Стойматериалов из мешков с песком переносимых в инвентаре.</Russian>
+		<Chinesesimp>建筑物供应库存中所装载沙袋的价值。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_advanced_revive">
         <Original>==== Advanced Revive ====</Original>
+        <Russian>==== Продвинутое Оживление ====</Russian>
         <English>==== Advanced Revive ====</English>
-		<Russian>==== Продвинутое Оживление ====</Russian>
+	<Chinesesimp>==== 高阶复苏 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_advanced_revive_desc">
         <Original>Enable Advanced Revive (Recommended)</Original>
+        <Russian>Включить Расширенное Оживление (Рекомендуется)</Russian>
         <English>Enable Advanced Revive (Recommended)</English>
-		<Russian>Включить Расширенное Оживление (Рекомендуется)</Russian>
+	<Chinesesimp>启用高阶复苏功能(推荐)</Chinesesimp>
       </Key>
 
       <Key ID="STR_vn_mf_param_snake_header">
         <Original>======== Snake Settings ========</Original>
+        <Russian>======== Настройки Змей ========</Russian>
         <English>======== Snake Settings ========</English>
-		<Russian>======== Настройки Змей ========</Russian>
+	<Chinesesimp>======== 毒蛇设置 ========</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_chance">
         <Original>==== Bite Chance ====</Original>
+        <Russian>==== Шанс Укуса ====</Russian>
         <English>==== Bite Chance ====</English>
-		<Russian>==== Шанс Укуса ====</Russian>
+	<Chinesesimp>==== 蛇咬概率 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_chance_desc">
         <Original>Percentage chance of being bitten</Original>
+        <Russian>Процентная вероятность быть укушенным</Russian>
         <English>Percentage chance of being bitten</English>
-		<Russian>Процентная вероятность быть укушенным</Russian>
+	<Chinesesimp>被蛇咬的概率</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_distance">
         <Original>==== Bite Distance ====</Original>
+        <Russian>==== Дистанция Укуса ====</Russian>
         <English>==== Bite Distance ====</English>
-		<Russian>==== Дистанция Укуса ====</Russian>
+	<Chinesesimp>==== 蛇咬距离 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_distance_desc">
         <Original>How close a snake must be to bite a player</Original>
+        <Russian>Насколько близко должна быть змея, чтобы укусить игрока</Russian>
         <English>How close a snake must be to bite a player</English>
-		<Russian>Насколько близко должна быть змея, чтобы укусить игрока</Russian>
+	<Chinesesimp>蛇要多近才能咬到玩家</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_frequency">
         <Original>==== Bite Frequency ====</Original>
+        <Russian>==== Частота Укусов ====</Russian>
         <English>==== Bite Frequency ====</English>
-		<Russian>==== Частота Укусов ====</Russian>
+	<Chinesesimp>==== 蛇咬频率 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_frequency_desc">
         <Original>Minimum Amount of time between bites</Original>
+        <Russian>Минимальное количество времени между укусами</Russian>
         <English>Minimum Amount of time between bites</English>
-		<Russian>Минимальное количество времени между укусами</Russian>
+	<Chinesesimp>最小间隔时间</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_extra_time">
         <Original>==== Ramp up Time ====</Original>
+        <Russian>==== Повышеное Время ====</Russian>
         <English>==== Ramp up Time ====</English>
-		<Russian>==== Повышеное Время ====</Russian>
+	<Chinesesimp>==== 加速时间 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_extra_time_desc">
         <Original>Amount of time with a reduced chance of being bitten. Starts counting after the bite frequency time has elapsed.</Original>
+        <Russian>Количество времени, в течение которого вероятность быть укушенным снижается. Начинает отсчет по истечении времени частоты укусов.</Russian>
         <English>Amount of time with a reduced chance of being bitten. Starts counting after the bite frequency time has elapsed.</English>
-		<Russian>Количество времени, в течение которого вероятность быть укушенным снижается. Начинает отсчет по истечении времени частоты укусов.</Russian>
+	<Chinesesimp>减少被咬的几率的时间。开始计数后，咬频时间已经过去。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_teams_header">
         <Original>======== Team Settings ========</Original>
+        <Russian>======== Настройки Команд ========</Russian>
         <English>======== Team Settings ========</English>
-		<Russian>======== Настройки Команд ========</Russian>
+	<Chinesesimp>======== 团队设置 ========</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_acav">
         <Original>==== Max players on ACAV ====</Original>
+        <Russian>==== Макс.кол-во Игроков на ACAV ====</Russian>
         <English>==== Max players on ACAV ====</English>
-		<Russian>==== Макс.кол-во Игроков на ACAV ====</Russian>
+	<Chinesesimp>==== ACAV最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_greenhornets">
         <Original>==== Max players on Green Hornets ====</Original>
+        <Russian>==== Макс. Игроков на Зелёные Шершни ====</Russian>
         <English>==== Max players on Green Hornets ====</English>
-		<Russian>==== Макс. Игроков на Зелёные Шершни ====</Russian>
+	<Chinesesimp>==== 绿色大黄蜂最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_mikeforce">
         <Original>==== Max players on Mike Force ====</Original>
+        <Russian>==== Макс. Игроков МАЙК ФОРС ====</Russian>
         <English>==== Max players on Mike Force ====</English>
-		<Russian>==== Макс. Игроков МАЙК ФОРС ====</Russian>
+	<Chinesesimp>==== Mike Forc的最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_spiketeam">
         <Original>==== Max players on Spike Team ====</Original>
+        <Russian>==== Макс. Игроков Команда Колючка ====</Russian>
         <English>==== Max players on Spike Team ====</English>
-		<Russian>==== Макс. Игроков Команда Колючка ====</Russian>
+	<Chinesesimp>==== Spike Team的最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hunger_loss_rate">
         <Original>==== Hunger Gain Rate ====</Original>
+        <Russian>==== Уровень Голода ====</Russian>
         <English>==== Hunger Gain Rate ====</English>
-		<Russian>==== Уровень Голода ====</Russian>
+	<Chinesesimp>==== 饥饿增幅值 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hunger_loss_rate_desc">
         <Original>The percentage of the hunger bar lost every 10 seconds</Original>
+        <Russian>Процент потери полосы голода каждые 10 секунд</Russian>
         <English>The percentage of the hunger bar lost every 10 seconds</English>
-		<Russian>Процент потери полосы голода каждые 10 секунд</Russian>
+	<Chinesesimp>每10秒消耗的饥饿条百分比  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_thirst_loss_rate">
         <Original>==== Thirst Gain Rate ====</Original>
+        <Russian>==== Скорость Усиления Жажды ====</Russian>
         <English>==== Thirst Gain Rate ====</English>
-		<Russian>==== Скорость Усиления Жажды ====</Russian>
+	<Chinesesimp>==== 饥渴增幅值 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_thirst_loss_rate_desc">
         <Original>The percentage of the thirst bar lost every 10 seconds</Original>
+        <Russian>Процент потери полосы жажды каждые 10 секунд</Russian>
         <English>The percentage of the thirst bar lost every 10 seconds</English>
-		<Russian>Процент потери полосы жажды каждые 10 секунд</Russian>
+	<Chinesesimp>每10秒消耗的饥渴条百分比  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_medical_header">
         <Original>======== Medical Settings ========</Original>
+        <Russian>======== Медицинские Настройки ========</Russian>
         <English>======== Medical Settings ========</English>
-		<Russian>======== Медицинские Настройки ========</Russian>
+	<Chinesesimp>==== 医疗设置 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_headshot_kill">
         <Original>==== Headshots Kill ====</Original>
+        <Russian>==== Убийства в Голову ====</Russian>
         <English>==== Headshots Kill ====</English>
-		<Russian>==== Убийства в Голову ====</Russian>
+	<Chinesesimp>==== 爆头死亡 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_headshot_kill_desc">
         <Original>Toggle if headshots can cause instadeath</Original>
+        <Russian>Переключает могут ли выстрелы в голову привести к мгновенной смерти</Russian>
         <English>Toggle if headshots can cause instadeath</English>
-		<Russian>Переключает могут ли выстрелы в голову привести к мгновенной смерти</Russian>
+	<Chinesesimp>切换爆头是否会导致立即死亡</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_bleedout_time">
         <Original>==== Bleedout Time ====</Original>
+        <Russian>==== Время Кровотечения ====</Russian>
         <English>==== Bleedout Time ====</English>
-		<Russian>==== Время Кровотечения ====</Russian>
+	<Chinesesimp>==== 失血时间 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_bleedout_time_desc">
         <Original>The time it takes in seconds for a wounded player to die</Original>
+        <Russian>Время в секундах, необходимое для смерти раненого игрока</Russian>
         <English>The time it takes in seconds for a wounded player to die</English>
-		<Russian>Время в секундах, необходимое для смерти раненого игрока</Russian>
+	<Chinesesimp>受伤的玩家在多少秒钟内阵亡</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_withstand_percentage">
         <Original>==== Withstand Percentage ====</Original>
+        <Russian>==== Процент Выдержки ====</Russian>
         <English>==== Withstand Percentage ====</English>
-		<Russian>==== Процент Выдержки ====</Russian>
+	<Chinesesimp>==== 抵抗百分比 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_withstand_percentage_desc">
         <Original>Percentage of bleedout time that must pass before withstanding is allowed</Original>
+        <Russian>Процент времени кровотечения, которое должно пройти, прежде чем будет разрешено выдерживать</Russian>
         <English>Percentage of bleedout time that must pass before withstanding is allowed</English>
-		<Russian>Процент времени кровотечения, которое должно пройти, прежде чем будет разрешено выдерживать</Russian>
+	<Chinesesimp>允许抵抗之前必须通过的失血时间百分比 </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_remove_bandage_item">
         <Original>==== Remove Bandage Item ====</Original>
+        <Russian>==== Снимать Повязку ====</Russian>
         <English>==== Remove Bandage Item ====</English>
-		<Russian>==== Снимать Повязку ====</Russian>
+	<Chinesesimp>==== 移除绷带物品 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_remove_bandage_item_desc">
         <Original>Remove the item used to stabilize a patient</Original>
+        <Russian>Удалить предмет используемый для стабилизации пациента.</Russian>
         <English>Remove the item used to stabilize a patient</English>
-		<Russian>Удалить предмет используемый для стабилизации пациента.</Russian>
+	<Chinesesimp>取出用来稳定伤员的东西</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_remove_revive_item">
         <Original>==== Remove Revive Item ====</Original>
+        <Russian>==== Удалить Предмет Оживления ====</Russian>
         <English>==== Remove Revive Item ====</English>
-		<Russian>==== Удалить Предмет Оживления ====</Russian>
+	<Chinesesimp>==== 删除复苏物品 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_remove_revive_item_desc">
         <Original>Remove the item used to revive a patient</Original>
+        <Russian>Удалить предмет используемый для оживления пациента</Russian>
         <English>Remove the item used to revive a patient</English>
-		<Russian>Удалить предмет используемый для оживления пациента</Russian>
+	<Chinesesimp>取出用来救活伤员的东西</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_revive_requirement">
         <Original>==== Require Medic to Revive ====</Original>
+        <Russian>==== Требуется Медик для Оживления ====</Russian>
         <English>==== Require Medic to Revive ====</English>
-		<Russian>==== Требуется Медик для Оживления ====</Russian>
+	<Chinesesimp>==== 需要医生来复苏 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_respawn_delay">
         <Original>==== Respawn Delay ====</Original>
+        <Russian>==== Задержка Возрождения ====</Russian>
         <English>==== Respawn Delay ====</English>
-		<Russian>==== Задержка Возрождения ====</Russian>
+	<Chinesesimp>==== 重生延迟 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_enable_air_support">
         <Original>==== Enable RTO Air Support ====</Original>
+        <Russian>==== Включить Авиаподдержку RTO ====</Russian>
         <English>==== Enable RTO Air Support  ====</English>
-		<Russian>==== Включить Авиаподдержку RTO ====</Russian>
+	<Chinesesimp>==== 启用无线电空中支援 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_enable_air_support_desc">
         <Original>Unique supports only will disable support from fast air and rotary wing units</Original>
+        <Russian>Уникальная поддержка только отключит поддержку со стороны быстроходных воздушных и винтокрылых юнитов</Russian>
         <English>Unique supports only will disable support from fast air and rotary wing units</English>
-		<Russian>Уникальная поддержка только отключит поддержку со стороны быстроходных воздушных и винтокрылых юнитов</Russian>
+	<Chinesesimp>唯一的支援将使快速空中和旋翼单位的支援失效  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_enable_arty_support">
         <Original>==== Enable RTO Artillery Support ====</Original>
+        <Russian>==== Включить Артподдержку RTO ====</Russian>
         <English>==== Enable RTO Artillery Support ====</English>
-		<Russian>==== Включить Артподдержку RTO ====</Russian>
+	<Chinesesimp>==== 启用无线电火炮支援 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_min_player_distance">
         <Original>==== Cleanup Distance ====</Original>
+        <Russian>==== Дистанция Очистки ====</Russian>
         <English>==== Cleanup Distance ====</English>
-		<Russian>==== Дистанция Очистки ====</Russian>
+	<Chinesesimp>==== 清理距离 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_min_player_distance_desc">
         <Original>Prevents deletion for certain objects, if a player is within X metres</Original>
+        <Russian>Предотвращает удаление определенных объектов, если игрок находится в пределах X метров</Russian>
         <English>Prevents deletion for certain objects, if a player is within X metres</English>
-		<Russian>Предотвращает удаление определенных объектов, если игрок находится в пределах X метров</Russian>
+	<Chinesesimp>如果玩家在X米范围内，防止删除某些物体  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_max_bodies">
         <Original>==== Max Bodies ====</Original>
+        <Russian>==== Макс. кол-во тел ====</Russian>
         <English>==== Max Bodies ====</English>
-		<Russian>==== Макс. кол-во тел ====</Russian>
+	<Chinesesimp>==== 最大尸体数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_placed_gear">
         <Original>==== Cleanup Placed Equipment ====</Original>
+        <Russian>==== Очистка Размещенного Снаряжения ====</Russian>
         <English>==== Cleanup Placed Equipment ====</English>
-		<Russian>==== Очистка Размещенного Снаряжения ====</Russian>
+	<Chinesesimp>==== 清理放置的装备 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_placed_gear_desc">
         <Original>Enables deleting equipment placed on the ground by players.</Original>
+        <Russian>Позволяет удалять снаряжение, помещенное игроками на землю.</Russian>
         <English>Enables deleting equipment placed on the ground by players.</English>
-		<Russian>Позволяет удалять снаряжение, помещенное игроками на землю.</Russian>
+	<Chinesesimp>允许删除玩家放在地上的装备。  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_placed_gear_lifetime">
         <Original>==== Placed equipment minimum lifetime ====</Original>
+        <Russian>==== Миним.срок нахождения размещенного снаряжения ====</Russian>
         <English>==== Placed equipment minimum lifetime ====</English>
-		<Russian>==== Миним.срок нахождения размещенного снаряжения ====</Russian>
+	<Chinesesimp>==== 放置装备的最短存在时间 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_dropped_gear">
         <Original>==== Cleanup Dropped Equipment ====</Original>
+ 	<Russian>==== Очистка Сброшенного Снаряжения ====</Russian>       
         <English>==== Cleanup Dropped Equipment ====</English>
-		<Russian>==== Очистка Сброшенного Снаряжения ====</Russian>
+	<Chinesesimp>==== 清理掉装备 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_dropped_gear_desc">
         <Original>Minimum amount of time before placed equipment is deleted.</Original>
+        <Russian>Минимальное количество времени до удаления размещенного снаряжения.</Russian>
         <English>Minimum amount of time before placed equipment is deleted.</English>
-		<Russian>Минимальное количество времени до удаления размещенного снаряжения.</Russian>
+	<Chinesesimp>删除放置装备前的最小时间  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_dropped_gear_lifetime">
         <Original>==== Dropped equipment minimum lifetime ====</Original>
+        <Russian>==== Миним.срок Сброшеного Снаряжения ====</Russian>
         <English>==== Dropped equipment minimum lifetime ====</English>
-		<Russian>==== Миним.срок Сброшеного Снаряжения ====</Russian>
+	<Chinesesimp>==== 跌落装备最短存在时间 ====</Chinesesimp>
       </Key>
     </Container>
     <Container name="voteMenu">
       <Key ID="STR_vn_mf_voteMenu_submitVote">
         <Original>Submit Vote</Original>
-        <English>Submit Vote</English>
-		<Russian>Отдать Голос</Russian>
+        <Russian>Отдать Голос</Russian>
+        <Chinesesimp>提交投票</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_selectOption">
         <Original>Please select an option:</Original>
-        <English>Please select an option:</English>
-		<Russian>Пожалуйста выберите вариант:</Russian>
+        <Russian>Пожалуйста выберите вариант:</Russian>
+        <Chinesesimp>请选择一个选项:</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_voteInitBody">
         <Original>A vote has been initalized. For more details please open the menu.</Original>
-        <English>A vote has been initalized. For more details please open the menu.</English>
-		<Russian>Началось голосование. Для получения более подробной информации откройте меню.</Russian>
+        <Russian>Началось голосование. Для получения более подробной информации откройте меню.</Russian>
+	<Chinesesimp>已初始化投票。欲了解更多详情，请打开菜单。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_open">
         <Original>Open</Original>
-        <English>Open</English>
-		<Russian>Открыть</Russian>
+        <Russian>Открыть</Russian>
+        <Chinesesimp>打开</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_casted">
         <Original>Vote Casted</Original>
-        <English>Vote Casted</English>
-		<Russian>Проголосовано</Russian>
+        <Russian>Проголосовано</Russian>
+	<Chinesesimp>已投票</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_votedFor">
         <Original>You voted:</Original>
-        <English>You voted:</English>
-		<Russian>Вы голосовали:</Russian>
+        <Russian>Вы голосовали:</Russian>
+        <Chinesesimp>你投票了:</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_voteMenu_selectOptionPrompt">
         <Original>You must select an option!</Original>
-        <English>You must select an option!</English>
-		<Russian>Вы должны выбрать вариант!</Russian>
+        <Russian>Вы должны выбрать вариант!</Russian>
+        <Chinesesimp>你必须选择一个选项！</Chinesesimp>
       </Key>
     </Container>
     <Container name="buildingCategories">
       <Key ID="STR_vn_mf_buildingMenu_category_uncategorized">
-        <Original>Uncategorized</Original>
-        <English>Uncategorized</English>
-		<Russian>Без категории</Russian>
+       <Original>Uncategorized</Original>
+        <Russian>Без категории</Russian>
+        <Chinesesimp>未分类</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_all">
         <Original>+All</Original>
-        <English>+All</English>
-		<Russian>+Все</Russian>
+        <Russian>+Все</Russian>
+	<Chinesesimp>+全部</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_recent">
         <Original>+Recents</Original>
-        <English>+Recents</English>
-		<Russian>+Последние</Russian>
+        <Russian>+Последние</Russian>
+	<Chinesesimp>+近期</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_favorites">
         <Original>+Favorites</Original>
-        <English>+Favorites</English>
-		<Russian>+Избранные</Russian>
+        <Russian>+Избранные</Russian>
+	<Chinesesimp>+最爱</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_base_starter">
         <Original>+Feature: HQ</Original>
-        <English>+Feature: HQ</English>
-		<Russian>+Особенности: ШТАБ</Russian>
+        <Russian>+Особенности: ШТАБ</Russian>
+	<Chinesesimp>+功能： HQ</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_radio">
         <Original>+Feature: Music</Original>
+        <Russian>+Особенности: Музыка</Russian>
         <English>+Feature: Music</English>
-		<Russian>+Особенности: Музыка</Russian>
+	<Chinesesimp>+功能:音乐</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_respawn">
         <Original>+Feature: Respawn</Original>
-        <English>+Feature: Respawn</English>
-		<Russian>+Особенности: Возрождение</Russian>
+        <Russian>+Особенности: Возрождение</Russian>
+	<Chinesesimp>+功能： 重生</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_maintenance">
         <Original>+Feature: Maintenance</Original>
-        <English>+Feature: Maintenance</English>
-		<Russian>+Особенности: Техобслуживание</Russian>
+        <Russian>+Особенности: Техобслуживание</Russian>
+	<Chinesesimp>+功能： 维护</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_vehicle_spawning">
         <Original>+Feature: Vehicle Creation</Original>
-        <English>+Feature: Vehicle Creation</English>
-		<Russian>+Особенности: Создание Транспорта</Russian>
+        <Russian>+Особенности: Создание Транспорта</Russian>
+	<Chinesesimp>+功能： 载具制造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_supply_depot">
         <Original>+Feature: Building Supply Depot</Original>
+        <Russian>+Особенности: Склад Стройматериалов</Russian>
         <English>+Feature: Building Supply Depot</English>
-		<Russian>+Особенности: Склад Стройматериалов</Russian>
+	<Chinesesimp>+功能:建筑补给站</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_functional">
         <Original>Special Buildings</Original>
-        <English>Special Buildings</English>
-		<Russian>Специальные Постройки</Russian>
+        <Russian>Специальные Постройки</Russian>
+	<Chinesesimp>特殊建筑</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_us">
         <Original>U.S</Original>
-        <English>U.S</English>
-		<Russian>U.S</Russian>
+        <Russian>U.S</Russian>
+        <Chinesesimp>美国</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_buildings">
         <Original>Buildings</Original>
-        <English>Buildings</English>
-		<Russian>Строения</Russian>
+ 	<Russian>Строения</Russian>       
+	<Chinesesimp>建筑</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_medical">
         <Original>Medical</Original>
-        <English>Medical</English>
-		<Russian>Медицинские</Russian>
+        <Russian>Медицинские</Russian>
+	<Chinesesimp>医疗</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_tents">
         <Original>Tents</Original>
-        <English>Tents</English>
-		<Russian>Палатки</Russian>
+        <Russian>Палатки</Russian>
+        <Chinesesimp>帐篷</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_towers">
         <Original>Towers</Original>
-        <English>Towers</English>
-		<Russian>Башни</Russian>
+        <Russian>Башни</Russian>
+        <Chinesesimp>塔楼</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_sanitation">
         <Original>Sanitation</Original>
-        <English>Sanitation</English>
-		<Russian>Санитария</Russian>
+        <Russian>Санитария</Russian>
+        <Chinesesimp>卫生设施</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_resupply">
         <Original>Resupply</Original>
-        <English>Resupply</English>
-		<Russian>Пополнение</Russian>
+        <Russian>Пополнение</Russian>
+	<Chinesesimp>补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_bridges">
         <Original>Bridges</Original>
-        <English>Bridges</English>
-		<Russian>Мосты</Russian>
+        <Russian>Мосты</Russian>
+        <Chinesesimp>桥梁</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_trees">
         <Original>Trees</Original>
-        <English>Trees</English>
-		<Russian>Деревья</Russian>
+        <Russian>Деревья</Russian>
+        <Chinesesimp>树木</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_bunkers">
         <Original>Bunkers</Original>
-        <English>Bunkers</English>
-		<Russian>Бункеры</Russian>
+	<Russian>Бункеры</Russian>        
+	<Chinesesimp>碉堡</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_fortifications">
         <Original>Fortifications</Original>
-        <English>Fortifications</English>
-		<Russian>Укрепления</Russian>
+        <Russian>Укрепления</Russian>
+        <Chinesesimp>防御工事</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_trenches">
         <Original>Trenches</Original>
-        <English>Trenches</English>
-		<Russian>Траншеи</Russian>
+        <Russian>Траншеи</Russian>
+        <Chinesesimp>战壕</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_helipads">
         <Original>Helipads</Original>
-        <English>Helipads</English>
-		<Russian>Вертолёт. площадки</Russian>
+        <Russian>Вертолёт. площадки</Russian>
+        <Chinesesimp>直升机坪</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_shelters">
         <Original>Camp (PAVN)</Original>
-        <English>Camp (PAVN)</English>
-		<Russian>Лагерь (PAVN)</Russian>
+        <Russian>Лагерь (PAVN)</Russian>
+        <Chinesesimp>营(PAVN)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_nv">
         <Original>North Vietnamese</Original>
-        <English>North Vietnamese</English>
-		<Russian>Северный Вьетнам</Russian>
+        <Russian>Северный Вьетнам</Russian>
+        <Chinesesimp>北越</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_anyone">
         <Original>Anyone Can Build</Original>
-        <English>Anyone Can Build</English>
-		<Russian>Любой Может Строить</Russian>
+        <Russian>Любой Может Строить</Russian>
+        <Chinesesimp>任何人都可以建造</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_nonACAV">
         <Original>Non-ACAV</Original>
-        <English>Non-ACAV</English>
-		<Russian>Не-ACAV</Russian>
+        <Russian>Не-ACAV</Russian>
+	<Chinesesimp>非-装甲骑兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_caves">
         <Original>Caves and Rocks</Original>
-        <English>Caves and Rocks</English>
-		<Russian>Пещеры и Скалы</Russian>
+        <Russian>Пещеры и Скалы</Russian>
+        <Chinesesimp>洞穴与岩石</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_decorative">
         <Original>Misc</Original>
-        <English>Misc</English>
-		<Russian>Разное</Russian>
+        <Russian>Разное</Russian>
+        <Chinesesimp>装饰</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_lighting">
         <Original>Lighting</Original>
-        <English>Lighting</English>
-		<Russian>Освещение</Russian>
+        <Russian>Освещение</Russian>
+        <Chinesesimp>照明</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_platforms">
         <Original>Platforms</Original>
-        <English>Platforms</English>
-		<Russian>Платформы</Russian>
+        	<Russian>Платформы</Russian>
+        <Chinesesimp>平台</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_fences">
         <Original>Fences and walls</Original>
-        <English>Fences and walls</English>
-		<Russian>Заборы и Стены</Russian>
+        <Russian>Заборы и Стены</Russian>
+        <Chinesesimp>篱笆和墙壁</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_antennae">
         <Original>Antennae</Original>
-        <English>Antennae</English>
-		<Russian>Антенны</Russian>
+        <Russian>Антенны</Russian>
+        <Chinesesimp>天线</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_hootches">
         <Original>Shacks</Original>
-        <English>Shacks</English>
-		<Russian>Хижины</Russian>
+        <Russian>Хижины</Russian>
+        <Chinesesimp>茅草房</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_hangars">
         <Original>Hangars</Original>
-        <English>Hangars</English>
-		<Russian>Ангары</Russian>
+        <Russian>Ангары</Russian>
+        <Chinesesimp>机棚</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_arvn">
         <Original>ARVN</Original>
-        <English>ARVN</English>
-		<Russian>ARVN</Russian>
+        <Russian>ARVN</Russian>
+        <Chinesesimp>南越陆军</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_barracks">
         <Original>Barracks</Original>
-        <English>Barracks</English>
-		<Russian>Казармы</Russian>
+        <Russian>Казармы</Russian>
+        <Chinesesimp>军营</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_walls">
         <Original>Walls</Original>
-        <English>Walls</English>
-		<Russian>Стены</Russian>
+        <Russian>Стены</Russian>
+        <Chinesesimp>墙体</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_water">
         <Original>Water</Original>
-        <English>Water</English>
-		<Russian>Вода</Russian>
+        <Russian>Вода</Russian>
+        <Chinesesimp>水</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_piers">
         <Original>Piers</Original>
-        <English>Piers</English>
+        
+        <Chinesesimp>码头</Chinesesimp>
 		<Russian>Пирс</Russian>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_spiderholes">
         <Original>Spiderholes</Original>
-        <English>Spiderholes</English>
-		<Russian>Паучьи норы</Russian>
+        <Russian>Паучьи норы</Russian>
+	<Chinesesimp>蜘蛛洞(散兵坑)</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_storage">
         <Original>Storage</Original>
+        
         <English>Storage</English>
 		<Russian>Хранилище</Russian>
       </Key>
@@ -1481,43 +1733,53 @@
       <Key ID="STR_vn_mf_ammo_supplies">
         <Original>Light Ammo Supplies</Original>
 		<Russian>Легкие Боеприпасы</Russian>
+	<Chinesesimp>轻型弹药补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_support_supplies">
         <Original>Support Ammo Supplies</Original>
 		<Russian>Поддержка Боеприпасами</Russian>
+	<Chinesesimp>支援弹药补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_explosives_supplies">
         <Original>Explosives Supplies</Original>
 		<Russian>Поставки Взрывчатки</Russian>
+	<Chinesesimp>炸药物资</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_supplies_crate">
         <Original>Building Supplies (Small)</Original>
 		<Russian>Стройматериалы (Малые)</Russian>
+	<Chinesesimp>建筑物资（小）</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_supplies_container">
         <Original>Building Supplies (Large)</Original>
 		<Russian>Стройматериалы (Большие)</Russian>
+	<Chinesesimp>建筑物资（大）</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_sandbag_supplies">
         <Original>Sandbags and Tools</Original>
         <English>Sandbags and Tools</English>
-		<Russian>Мешки с песком и Инвентарь</Russian>
+	<Russian>Мешки с песком и Инвентарь</Russian>
+        <Chinesesimp>沙袋和工具</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_supplies">
         <Original>Supplies</Original>
 		<Russian>Припасы</Russian>
+	<Chinesesimp>补给物资</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_workshop_supplies">
         <Original>Workshop Supplies</Original>
 		<Russian>Принадлежности для Мастерской</Russian>
+        <Chinesesimp>维修车间补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_food_supplies">
         <Original>Food Supplies</Original>
 		<Russian>Поставки Еды</Russian>
+        <Chinesesimp>食物补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_medical_supplies">
         <Original>Medical Supplies</Original>
 		<Russian>Медицинские Поставки</Russian>
+	<Chinesesimp>医疗物资</Chinesesimp>
       </Key>
     </Container>
   </Package>
@@ -1528,108 +1790,133 @@
       <Key ID="STR_para_notification_building_non_functional_title">
         <Original>Building Non-Functional</Original>
 		<Russian>Нефункциональное Здание</Russian>
+	<Chinesesimp>无法运作的建筑</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_building_non_functional_desc">
         <Original>This building isn't functioning right now.</Original>
 		<Russian>Сейчас это здание не работает.</Russian>
+	<Chinesesimp>该建筑现在无法运作</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_insufficient_resources_title">
         <Original>Insufficient Resources</Original>
 		<Russian>Недостаточно Ресурсов</Russian>
+        <Chinesesimp>资源不足</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_insufficient_resources_desc">
         <Original>The building doesn't have enough resources to do that.</Original>
 		<Russian>У здания недостаточно ресурсов для этого.</Russian>
+	<Chinesesimp>该建筑没有足够资源</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_spawn_position_blocked_title">
         <Original>Area Blocked</Original>
 		<Russian>Область Заблокирована</Russian>
+	<Chinesesimp>区域受阻</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_spawn_position_blocked_desc">
         <Original>Clear the area where the vehicle will be created.</Original>
 		<Russian>Освободите место, где будет создано транспортное средство.</Russian>
+        <Chinesesimp>清理生成车辆的区域。</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_repaired_title">
         <Original>Vehicle Repaired</Original>
 		<Russian>Транспорт Отремонтирован</Russian>
+	<Chinesesimp>载具已维修</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_repaired_desc">
         <Original>%1 supplies consumed.</Original>
 		<Russian>Израсходовано %1 запасов.</Russian>
+	<Chinesesimp>消耗掉%1补给</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_refueled_title">
         <Original>Vehicle Refueled</Original>
 		<Russian>Транспорт Заправлен</Russian>
+	<Chinesesimp>载具已加满油</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_refueled_desc">
         <Original>%1 supplies consumed.</Original>
 		<Russian>Израсходовано %1 запасов.</Russian>
+	<Chinesesimp>消耗掉%1补给</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_rearmed_title">
         <Original>Vehicle Rearmed</Original>
 		<Russian>Транспорт Перевернут</Russian>
+        <Chinesesimp>载具补给弹药</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_rearmed_desc">
         <Original>%1 supplies consumed.</Original>
 		<Russian>Израсходовано %1 запасов.</Russian>
+	<Chinesesimp>消耗掉%1补给</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_spawn_cooldown_title">
         <Original>Vehicle Created Recently</Original>
 		<Russian>Недавно Созданный Транспорт</Russian>
+        <Chinesesimp>最近生成的载具</Chinesesimp>
       </Key>
       <Key ID="STR_para_notification_vehicle_spawn_cooldown_desc">
         <Original>The next vehicle will be available in %1 minutes.</Original>
 		<Russian>Следующий автомобиль будет доступен через %1 минут.</Russian>
+        <Chinesesimp>下一辆载具 %1 分钟后可用</Chinesesimp>
       </Key>
     </Container>
     <Container name="basebuilding">
       <Key ID="STR_para_bf_maintenance_repair_action">
         <Original>Repair Vehicle Using Supplies</Original>
 		<Russian>Ремонт Транспорта с Помощью Припасов</Russian>
+	<Chinesesimp>用物资维修载具</Chinesesimp>
       </Key>
       <Key ID="STR_para_bf_maintenance_refuel_action">
         <Original>Refuel Vehicle Using Supplies</Original>
 		<Russian>Заправка Транспорта с Помощью Припасов</Russian>
+	<Chinesesimp>用物资给载具补充燃料</Chinesesimp>
       </Key>
       <Key ID="STR_para_bf_maintenance_rearm_action">
         <Original>Rearm Vehicle Using Supplies</Original>
 		<Russian>Перевооружение Транспорта с Помощью Припасов</Russian>
+	<Chinesesimp>用物资给载具补充弹药</Chinesesimp>
       </Key>
     </Container>
     <Container name="supplies">
       <Key ID="STR_para_supply_buildingsupplies">
         <Original>Building Supplies</Original>
 		<Russian>Строительные Поставки</Russian>
+        <Chinesesimp>建筑材料</Chinesesimp>
       </Key>
       <Key ID="STR_para_supply_workshopsupplies">
         <Original>Workshop Supplies</Original>
 		<Russian>Поставки для Мастерских</Russian>
+        <Chinesesimp>车间材料</Chinesesimp>
       </Key>
     </Container>
     <Container name="KeybindingsMenu">
       <Key ID="STR_vn_mf_keybindings_title">
         <Original>Mikeforce Keybindings</Original>
 		<Russian>Привязка клавиш Майкфорс</Russian>
+        <Chinesesimp>Mikeforce绑定按键</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_header_action">
         <Original>Action</Original>
 		<Russian>Действие</Russian>
+        <Chinesesimp>动作</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_header_keybind">
         <Original>Keybind</Original>
 		<Russian>Привязка Клавиш</Russian>
+        <Chinesesimp>按键</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_reset">
         <Original>Reset to default</Original>
 		<Russian>Сброс к стандарт. настройкам</Russian>
+        <Chinesesimp>重置为默认值</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_confirm">
         <Original>Confirm</Original>
 		<Russian>Подтвердить</Russian>
+        <Chinesesimp>确认</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_keybindings_cancel">
         <Original>Cancel</Original>
 		<Russian>Отмена</Russian>
+        <Chinesesimp>取消</Chinesesimp>
       </Key>
     </Container>
     <Container name="Zone_Name_Cam_Lao">
@@ -1734,6 +2021,7 @@
       <Key ID="STR_vn_mf_zone_khe_sanh">
         <Original>Khe Sanh</Original>
 		<Russian>Кхешань</Russian>
+	<Chinesesimp>溪山</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_zone_kok">
         <Original>Kok</Original>
