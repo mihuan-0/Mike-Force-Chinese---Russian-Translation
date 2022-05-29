@@ -72,6 +72,10 @@
 		<Russian>Пополнить запасы из ящика</Russian>
 	<Chinesesimp>使用补给箱进行补给</Chinesesimp>
       </Key>
+      <Key ID="STR_vn_mf_scout_action">
+        <Original>Scout for Nearest Enemy Site</Original>
+	<Chinesesimp>侦察最近的敌军地点</Chinesesimp>
+      </Key>
       <Key ID="STR_vn_mf_arsenal">
         <Original>Arsenal</Original>
 		<Russian>Арсенал</Russian>
@@ -746,33 +750,33 @@
     </Container>
     <Container name="interaction_overlay">
       <Key ID="STR_vn_mf_overlay_duty_officer_name">
-         <Original>Duty Officer</Original>
+      	<Original>Duty Officer</Original>
         <Russian>Дежурный Офицер</Russian>
-	 <Chinesesimp>执勤官</Chinesesimp>
+	<Chinesesimp>执勤官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_duty_officer_description">
         <Original>Change teams or train in a role, such as engineer.</Original>
-		<Russian>Меняйте команды или тренируйтесь в какой-либо роли, например в качестве инженера.</Russian>
+	<Russian>Меняйте команды или тренируйтесь в какой-либо роли, например в качестве инженера.</Russian>
 	<Chinesesimp>切换团队或培训角色，例如工程兵</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_fast_travel_name">
         <Original>Fast Travel</Original>
-		<Russian>Быстрое Перемещение</Russian>
+	<Russian>Быстрое Перемещение</Russian>
         <Chinesesimp>快速旅行</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_fast_travel_description">
         <Original>Teleport to the bases of each team</Original>
-		<Russian>Телепортируйтесь на базы любой команды</Russian>
+	<Russian>Телепортируйтесь на базы любой команды</Russian>
         <Chinesesimp>传送到各小队的基地</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_supply_officer_name">
         <Original>Supply Officer</Original>
-		<Russian>Офицер Снабжения</Russian>
+	<Russian>Офицер Снабжения</Russian>
         <Chinesesimp>军需官</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_overlay_supply_officer_description">
         <Original>Request supplies, such as building supplies, food or ammunition.</Original>
-		<Russian>Запросите предметы снабжения, такие как строительные материалы, продовольствие или боеприпасы.</Russian>
+	<Russian>Запросите предметы снабжения, такие как строительные материалы, продовольствие или боеприпасы.</Russian>
         <Chinesesimp>请求补给，如建筑材料供应，食物或弹药。</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_buildable_base">
@@ -822,11 +826,13 @@
       </Key>
       <Key ID="STR_para_overlay_good">
         <Original>Good</Original>
+        <English>Good</English>
         <Russian>Хорошо</Russian>
 	<Chinesesimp>完好</Chinesesimp>
       </Key>
       <Key ID="STR_para_overlay_decaying">
         <Original>Decaying</Original>
+        <English>Decaying</English>
         <Russian>Разложение</Russian>
 	<Chinesesimp>正在损耗</Chinesesimp>
       </Key>
@@ -889,95 +895,111 @@
       </Key>
       <Key ID="STR_vn_mf_notification_title_counter_attack">
         <Original>Counter-attack</Original>
+        <English>Counter-attack</English>
         <Russian>Контратака</Russian>
 	<Chinesesimp>反攻</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_preparing">
         <Original>The enemy will counter-attack in %2 minutes</Original>
+        <English>The enemy will counter-attack in %2 minutes</English>
         <Russian>Противник контратакует через %2 мин.</Russian>
         <Chinesesimp>敌人将在 %2 分钟后反攻。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_imminent">
         <Original>Enemy counter-attack is imminent!</Original>
+        <English>Enemy counter-attack is imminent!</English>
 	<Russian>Контратака противника неизбежна!</Russian>        
         <Chinesesimp>敌人的反攻迫在眉睫!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_base_attack">
         <Original>FOB Attack</Original>
+        <English>FOB Attack</English>
         <Russian>FOB Атакован</Russian>
         <Chinesesimp>FOB被袭</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_base_attack_preparing">
         <Original>The enemy will attack an FOB in %2 minutes</Original>
+        <English>The enemy will attack an FOB in %2 minutes</English>
 	<Russian>Противник атакует FOB через %2 мин.</Russian>        
         <Chinesesimp>敌人将在 %2 分钟后袭击FOB</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_base_attack_imminent">
         <Original>Enemy attack on FOB is imminent!</Original>
+        <English>Enemy attack on FOB is imminent!</English>
         <Russian>Атака противника на FOB неизбежна!</Russian>
 	<Chinesesimp>敌军正在进攻FOB!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_counter_attack_shortened">
         <Original>All critical tasks completed. Enemy counter attack in %2 minutes.</Original>
+        <English>All critical tasks completed. Enemy counter attack in %2 minutes.</English>
         <Russian>Все важные задачи выполнены. Контратака противника через %2 минуты.</Russian>
         <Chinesesimp>所有关键任务已完成。敌人将在 %2 分钟内发起反攻。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_no_sandbag">
         <Original>No sandbags in inventory</Original>
+        <English>No sandbags in inventory</English>
         <Russian>Нет мешков с песком в инвентаре</Russian>
         <Chinesesimp>库存中没有沙袋</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_sandbags_not_allowed">
         <Original>Sandbags cannot be used on this building</Original>
+        <English>Sandbags cannot be used on this building</English>
         <Russian>В этом здании нельзя использовать мешки с песком.</Russian>
         <Chinesesimp>沙袋不能用于该建筑上</Chinesesimp>
       </Key>
       <Key ID="STR_para_build_cantresupplyunbuiltbuilding">
         <Original>You can't resupply an unbuilt building</Original>
+        <English>You can't resupply an unbuilt building</English>
         <Russian>Вы не можете пополнить запасы не построенного здания</Russian>
         <Chinesesimp>你不能对未建成的建筑进行再补给</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_title_empty_food_item">
         <Original>Empty Food Item</Original>
-        <Russian>Пустой Предмет Питания</Russian>
         <English>Empty Food Item</English>
+        <Russian>Пустой Предмет Питания</Russian>
 	<Chinesesimp>空的食物</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_notification_desc_empty_food_item">
         <Original>The container is empty</Original>
-        <Russian>Контейнер пуст</Russian>
         <English>The container is empty</English>
+        <Russian>Контейнер пуст</Russian>
 	<Chinesesimp>容器是空的</Chinesesimp>
       </Key>
     </Container>
     <Container name="building">
       <Key ID="STR_para_building_position">
         <Original>Position</Original>
+        <English>Position</English>
         <Russian>Позиция</Russian>
         <Chinesesimp>安放</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_rotation">
         <Original>Rotation</Original>
+        <English>Rotation</English>
 	<Russian>Вращение</Russian>        
         <Chinesesimp>旋转</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_height">
         <Original>Height</Original>
+        <English>Height</English>
         <Russian>Высота</Russian>
         <Chinesesimp>高度</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_hint_header">
         <Original>Building Placement</Original>
+        <English>Building Placement</English>
         <Russian>Размещение Строений</Russian>
 	<Chinesesimp>建筑摆放</Chinesesimp>
       </Key>
       <Key ID="STR_para_building_hint_body">
         <Original>&lt;t color='#23aa50'&gt;[LMB]/[RMB]&lt;/t&gt; to cycle placement mode.&lt;br/&gt;&lt;br/&gt;Building can be placed with the 'build' action when the building is green. Buildings must not be colliding, and must be placed on a surface.</Original>
+        <English>&lt;t color='#23aa50'&gt;[LMB]/[RMB]&lt;/t&gt; to cycle placement mode.&lt;br/&gt;&lt;br/&gt;Building can be placed with the 'build' action when the building is green. Buildings must not be colliding, and must be placed on a surface.</English>
         <Russian>&lt;t color='#23aa50'&gt;[ЛКМ]/[ПКМ]&lt;/t&gt; для циклического режима размещения.&lt;br/&gt;&lt;br/&gt;Здание может быть размещено с помощью действия 'Построить', когда здание зеленое. Здания не должны сталкиваться и должны быть размещены на поверхности.</Russian>
         <Chinesesimp>&lt;t color='#23aa50'&gt;[鼠标左键]/[鼠标右键]&lt;/t&gt; 循环放置模式。&lt;br/&gt;&lt;br/&gt;当建筑为绿色时，可以用"建造"动作来放置建筑。建筑物不能有碰撞，且必须放置在一个表面上。</Chinesesimp>
-	  </Key>
+      </Key>
       <Key ID="STR_para_building_placing_in_progress">
         <Original>Placing Building</Original>
+        <English>Placing Building</English>
         <Russian>Размещение Здания</Russian>
         <Chinesesimp>放置建筑中</Chinesesimp>
       </Key>
@@ -1068,27 +1090,32 @@
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category">
         <Original>Category:</Original>
+        <English>Category:</English>
         <Russian>Категория:</Russian>
         <Chinesesimp>类别：</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_search">
         <Original>Search:</Original>
+        <English>Search:</English>
         <Russian>Поиск:</Russian>
         <Chinesesimp>搜索:</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_showLocked">
         <Original>Show Locked:</Original>
+        <English>Show Locked:</English>
         <Russian>Показать Заблокировано:</Russian>
         <Chinesesimp>显示锁定的建筑：</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildingMenu_category_search">
         <Original>Search</Original>
+        <English>Search</English>
         <Russian>Поиск</Russian>
         <Chinesesimp>搜索</Chinesesimp>
       </Key>
 
       <Key ID="STR_vn_mf_buildingMenu_condition_inACav">
         <Original>In ACav</Original>
+        <English>In ACav</English>
         <Russian>В ACav</Russian>
 	<Chinesesimp>在装甲骑兵中</Chinesesimp>
       </Key>
@@ -1096,246 +1123,255 @@
     <Container name="params">
       <Key ID="STR_vn_mf_param_wipe_save">
         <Original>==== Delete Save ====</Original>
+        <English>==== Delete Save ====</English>
         <Russian>==== Удалить Сохранение ====</Russian>
 	<Chinesesimp>==== 删除存档 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_wipe_save_desc">
         <Original>[WARNING] Deletes your saved game. This will delete all progress (ranks and map)!</Original>
+        <English>[WARNING] Deletes your saved game. This will delete all progress (ranks and map)!</English>
         <Russian>[ПРЕДУПРЕЖДЕНИЕ] Удаляет сохраненную игру. Это приведет к удалению всего прогресса (рангов и карты)!</Russian>
 	<Chinesesimp>[警告]删除你所保存的游戏。这将删除所有的进度(军衔和地图)!</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_enable_ranks">
         <Original>==== Enable Rank System [Under Development] ====</Original>
+        <English>==== Enable Rank System [Under Development] ====</English>
         <Russian>==== Включить Систему Рангов [В разработке] ====</Russian>
         <Chinesesimp>==== 启用军衔制度[正在开发中] ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hard_ai_limit">
         <Original>==== Hard AI Limit ====</Original>
+        <English>==== Hard AI Limit ====</English>
         <Russian>==== Жесткий Лимит ИИ ====</Russian>
         <Chinesesimp>==== 硬性AI限制 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hard_ai_limit_desc">
         <Original>[High performance impact] The maximum number of AI the mission will ever have simultaneously.</Original>
+        <English>[High performance impact] The maximum number of AI the mission will ever have simultaneously.</English>
         <Russian>[Высокое влияние на производительность] Максимальное количество ИИ, которое миссия будет иметь одновременно.</Russian>
 	<Chinesesimp>[高性能影响]任务将同时拥有的最大AI数量</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_enable_ranks_desc">
         <Original>Restrict vehicles/weapons based on rank. Recommended to reduce griefing.</Original>
+        <English>Restrict vehicles/weapons based on rank. Recommended to reduce griefing.</English>
         <Russian>Ограничить транспорт/оружие в зависимости от ранга. Рекомендуется для уменьшения числа griefing(игроков-придурков).</Russian>
         <Chinesesimp>根据军衔限制车辆/武器使用。推荐启用，以减少恶意破坏事件。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_allow_map_markers">
         <Original>==== Enable Map Markers ====</Original>
-        <Russian>==== Включить Маркеры на Карте ====</Russian>
         <English>==== Enable Map Markers ====</English>
+        <Russian>==== Включить Маркеры на Карте ====</Russian>
 	<Chinesesimp>==== 启用地图标记 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_allow_map_markers_desc">
         <Original>Toggle player map markers</Original>
-        <Russian>Переключение маркеров карты игрока</Russian>
         <English>Toggle player map markers</English>
+        <Russian>Переключение маркеров карты игрока</Russian>
 	<Chinesesimp>切换玩家地图标记</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_dawn_length">
         <Original>==== Dawn Length ====</Original>
-        <Russian>==== Длительность Рассвета ====</Russian>
         <English>==== Dawn Length ====</English>
+        <Russian>==== Длительность Рассвета ====</Russian>
 	<Chinesesimp>==== 黎明时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_day_length">
         <Original>==== Day Length ====</Original>
-        <Russian>==== Длительность Дня ====</Russian>
         <English>==== Day Length ====</English>
+        <Russian>==== Длительность Дня ====</Russian>
 	<Chinesesimp>==== 白天时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_dusk_length">
         <Original>==== Dusk Length ====</Original>
-        <Russian>==== Длина Сумерек ====</Russian>
         <English>==== Dusk Length ====</English>
+        <Russian>==== Длина Сумерек ====</Russian>
 	<Chinesesimp>==== 黄昏时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_night_length">
         <Original>==== Night Length ==== </Original>
-        <Russian>==== Длительность Ночи ==== </Russian>
         <English>==== Night Length ====</English>
+        <Russian>==== Длительность Ночи ==== </Russian>
 	<Chinesesimp>==== 夜晚时长 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildables_require_vehicles">
         <Original>==== Resupply buildings require vehicles ====</Original>
-        <Russian>==== Снабжение зданий требует транспорт ====</Russian>
         <English>==== Resupply buildings require vehicles ====</English>
+        <Russian>==== Снабжение зданий требует транспорт ====</Russian>
 	<Chinesesimp>==== 补给建筑需要车辆 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_buildables_require_vehicles_desc">
         <Original>Should vehicles be required to build resupply buildings [Not Advised].</Original>
-        <Russian>Если для строительства зданий для пополнения запасов потребуются транспортные средства [Не рекомендуется].</Russian>
         <English>Should vehicles be required to build resupply buildings [Not Advised].</English>
+        <Russian>Если для строительства зданий для пополнения запасов потребуются транспортные средства [Не рекомендуется].</Russian>
 	<Chinesesimp>是否需要车辆来建造补给建筑物[不建议].</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_ai_quantity">
         <Original>==== AI Quantity ====</Original>
-        <Russian>==== Количество ИИ ====</Russian>
         <English>==== AI Quantity ====</English>
+        <Russian>==== Количество ИИ ====</Russian>
 	<Chinesesimp>==== AI数量 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_always_allow_withstand">
         <Original>==== Allow Withstanding ====</Original>
-        <Russian>==== Позволить Противостояние ====</Russian>
         <English>==== Allow Withstanding ====</English>
+        <Russian>==== Позволить Противостояние ====</Russian>
         <Chinesesimp>==== 允许抵抗 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_always_allow_withstand_desc">
-        <Original>Toggles whether withstand is always available, or only when alone.</Original>
+        <Original>Enable withstand with friendlies nearby</Original>
+        <English>Enable withstand with friendlies nearby</English>
         <Russian>Включить противостояние с товарищами поблизости</Russian>
-        <Chinesesimp>切换抵抗是否始终可用或只在单独时可用。</Chinesesimp>
+        <Chinesesimp>启用与附近友军的抵御措施</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_sandbag_value">
         <Original>==== Sandbag Supplies Quantity ====</Original>
+        <English>==== Sandbag Supplies Quantity ====</English>
         <Russian>==== Кол-во Поставок мешков с песком ====</Russian>
         <Chinesesimp>==== 沙袋供应数量 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_building_sandbag_value_desc">
         <Original>The building supplies value of sandbags carried in the inventory.</Original>
+        <English>The building supplies value of sandbags carried in the inventory.</English>
         <Russian>Кол-во Стойматериалов из мешков с песком переносимых в инвентаре.</Russian>
 		<Chinesesimp>建筑物供应库存中所装载沙袋的价值。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_advanced_revive">
         <Original>==== Advanced Revive ====</Original>
-        <Russian>==== Продвинутое Оживление ====</Russian>
         <English>==== Advanced Revive ====</English>
+        <Russian>==== Продвинутое Оживление ====</Russian>
 	<Chinesesimp>==== 高阶复苏 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_advanced_revive_desc">
         <Original>Enable Advanced Revive (Recommended)</Original>
-        <Russian>Включить Расширенное Оживление (Рекомендуется)</Russian>
         <English>Enable Advanced Revive (Recommended)</English>
+        <Russian>Включить Расширенное Оживление (Рекомендуется)</Russian>
 	<Chinesesimp>启用高阶复苏功能(推荐)</Chinesesimp>
       </Key>
 
       <Key ID="STR_vn_mf_param_snake_header">
         <Original>======== Snake Settings ========</Original>
-        <Russian>======== Настройки Змей ========</Russian>
         <English>======== Snake Settings ========</English>
+        <Russian>======== Настройки Змей ========</Russian>
 	<Chinesesimp>======== 毒蛇设置 ========</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_chance">
         <Original>==== Bite Chance ====</Original>
-        <Russian>==== Шанс Укуса ====</Russian>
         <English>==== Bite Chance ====</English>
+        <Russian>==== Шанс Укуса ====</Russian>
 	<Chinesesimp>==== 蛇咬概率 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_chance_desc">
         <Original>Percentage chance of being bitten</Original>
-        <Russian>Процентная вероятность быть укушенным</Russian>
         <English>Percentage chance of being bitten</English>
+        <Russian>Процентная вероятность быть укушенным</Russian>
 	<Chinesesimp>被蛇咬的概率</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_distance">
         <Original>==== Bite Distance ====</Original>
-        <Russian>==== Дистанция Укуса ====</Russian>
         <English>==== Bite Distance ====</English>
+        <Russian>==== Дистанция Укуса ====</Russian>
 	<Chinesesimp>==== 蛇咬距离 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_distance_desc">
         <Original>How close a snake must be to bite a player</Original>
-        <Russian>Насколько близко должна быть змея, чтобы укусить игрока</Russian>
         <English>How close a snake must be to bite a player</English>
+        <Russian>Насколько близко должна быть змея, чтобы укусить игрока</Russian>
 	<Chinesesimp>蛇要多近才能咬到玩家</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_frequency">
         <Original>==== Bite Frequency ====</Original>
-        <Russian>==== Частота Укусов ====</Russian>
         <English>==== Bite Frequency ====</English>
+        <Russian>==== Частота Укусов ====</Russian>
 	<Chinesesimp>==== 蛇咬频率 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_frequency_desc">
         <Original>Minimum Amount of time between bites</Original>
-        <Russian>Минимальное количество времени между укусами</Russian>
         <English>Minimum Amount of time between bites</English>
+        <Russian>Минимальное количество времени между укусами</Russian>
 	<Chinesesimp>最小间隔时间</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_extra_time">
         <Original>==== Ramp up Time ====</Original>
-        <Russian>==== Повышеное Время ====</Russian>
         <English>==== Ramp up Time ====</English>
+        <Russian>==== Повышеное Время ====</Russian>
 	<Chinesesimp>==== 加速时间 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_snake_bite_extra_time_desc">
         <Original>Amount of time with a reduced chance of being bitten. Starts counting after the bite frequency time has elapsed.</Original>
-        <Russian>Количество времени, в течение которого вероятность быть укушенным снижается. Начинает отсчет по истечении времени частоты укусов.</Russian>
         <English>Amount of time with a reduced chance of being bitten. Starts counting after the bite frequency time has elapsed.</English>
+        <Russian>Количество времени, в течение которого вероятность быть укушенным снижается. Начинает отсчет по истечении времени частоты укусов.</Russian>
 	<Chinesesimp>减少被咬的几率的时间。开始计数后，咬频时间已经过去。</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_teams_header">
         <Original>======== Team Settings ========</Original>
-        <Russian>======== Настройки Команд ========</Russian>
         <English>======== Team Settings ========</English>
+        <Russian>======== Настройки Команд ========</Russian>
 	<Chinesesimp>======== 团队设置 ========</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_acav">
         <Original>==== Max players on ACAV ====</Original>
-        <Russian>==== Макс.кол-во Игроков на ACAV ====</Russian>
         <English>==== Max players on ACAV ====</English>
+        <Russian>==== Макс.кол-во Игроков на ACAV ====</Russian>
 	<Chinesesimp>==== ACAV最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_greenhornets">
         <Original>==== Max players on Green Hornets ====</Original>
-        <Russian>==== Макс. Игроков на Зелёные Шершни ====</Russian>
         <English>==== Max players on Green Hornets ====</English>
+        <Russian>==== Макс. Игроков на Зелёные Шершни ====</Russian>
 	<Chinesesimp>==== 绿色大黄蜂最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_mikeforce">
         <Original>==== Max players on Mike Force ====</Original>
-        <Russian>==== Макс. Игроков МАЙК ФОРС ====</Russian>
         <English>==== Max players on Mike Force ====</English>
+        <Russian>==== Макс. Игроков МАЙК ФОРС ====</Russian>
 	<Chinesesimp>==== Mike Forc的最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_max_players_spiketeam">
         <Original>==== Max players on Spike Team ====</Original>
-        <Russian>==== Макс. Игроков Команда Колючка ====</Russian>
         <English>==== Max players on Spike Team ====</English>
+        <Russian>==== Макс. Игроков Команда Колючка ====</Russian>
 	<Chinesesimp>==== Spike Team的最大玩家数 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hunger_loss_rate">
         <Original>==== Hunger Gain Rate ====</Original>
-        <Russian>==== Уровень Голода ====</Russian>
         <English>==== Hunger Gain Rate ====</English>
+        <Russian>==== Уровень Голода ====</Russian>
 	<Chinesesimp>==== 饥饿增幅值 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_hunger_loss_rate_desc">
         <Original>The percentage of the hunger bar lost every 10 seconds</Original>
-        <Russian>Процент потери полосы голода каждые 10 секунд</Russian>
         <English>The percentage of the hunger bar lost every 10 seconds</English>
+        <Russian>Процент потери полосы голода каждые 10 секунд</Russian>
 	<Chinesesimp>每10秒消耗的饥饿条百分比  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_thirst_loss_rate">
         <Original>==== Thirst Gain Rate ====</Original>
-        <Russian>==== Скорость Усиления Жажды ====</Russian>
         <English>==== Thirst Gain Rate ====</English>
+        <Russian>==== Скорость Усиления Жажды ====</Russian>
 	<Chinesesimp>==== 饥渴增幅值 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_thirst_loss_rate_desc">
         <Original>The percentage of the thirst bar lost every 10 seconds</Original>
-        <Russian>Процент потери полосы жажды каждые 10 секунд</Russian>
         <English>The percentage of the thirst bar lost every 10 seconds</English>
+        <Russian>Процент потери полосы жажды каждые 10 секунд</Russian>
 	<Chinesesimp>每10秒消耗的饥渴条百分比  </Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_medical_header">
         <Original>======== Medical Settings ========</Original>
-        <Russian>======== Медицинские Настройки ========</Russian>
         <English>======== Medical Settings ========</English>
+        <Russian>======== Медицинские Настройки ========</Russian>
 	<Chinesesimp>==== 医疗设置 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_headshot_kill">
         <Original>==== Headshots Kill ====</Original>
-        <Russian>==== Убийства в Голову ====</Russian>
         <English>==== Headshots Kill ====</English>
+        <Russian>==== Убийства в Голову ====</Russian>
 	<Chinesesimp>==== 爆头死亡 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_headshot_kill_desc">
         <Original>Toggle if headshots can cause instadeath</Original>
-        <Russian>Переключает могут ли выстрелы в голову привести к мгновенной смерти</Russian>
         <English>Toggle if headshots can cause instadeath</English>
+        <Russian>Переключает могут ли выстрелы в голову привести к мгновенной смерти</Russian>
 	<Chinesesimp>切换爆头是否会导致立即死亡</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_bleedout_time">
@@ -1415,6 +1451,21 @@
         <Russian>==== Включить Артподдержку RTO ====</Russian>
         <English>==== Enable RTO Artillery Support ====</English>
 	<Chinesesimp>==== 启用无线电火炮支援 ====</Chinesesimp>
+      </Key>
+      <Key ID="STR_vn_mf_param_enable_stamina">
+        <Original>==== Enable Stamina ====</Original>
+        <English>==== Enable Stamina ====</English>
+	<Chinesesimp>==== 启用耐力 ====</Chinesesimp>
+      </Key>
+      <Key ID="STR_vn_mf_param_set_stamina">
+        <Original>==== Stamina Setting ====</Original>
+        <English>==== Stamina Setting ====</English>
+	<Chinesesimp>==== 耐力设置 ====</Chinesesimp>
+      </Key>
+      <Key ID="STR_vn_mf_param_cleanup_header">
+        <Original>======== Cleanup Settings ========</Original>
+        <English>======== Cleanup Settings ========</English>
+	<Chinesesimp>==== 清理设置 ====</Chinesesimp>
       </Key>
       <Key ID="STR_vn_mf_param_cleanup_min_player_distance">
         <Original>==== Cleanup Distance ====</Original>
@@ -1856,6 +1907,14 @@
         <Original>The next vehicle will be available in %1 minutes.</Original>
 		<Russian>Следующий автомобиль будет доступен через %1 минут.</Russian>
         <Chinesesimp>下一辆载具 %1 分钟后可用</Chinesesimp>
+      </Key>
+      <Key ID="STR_para_notification_vehicle_spawn_incorrect">
+        <Original>This vehicle can not be spawned here!</Original>
+        <Chinesesimp>此载具不能在此生成！</Chinesesimp>
+      </Key>
+      <Key ID="STR_para_notification_building_placement_incorrect">
+        <Original>The building is incorrectly placed for this vehicle to spawn.</Original>
+        <Chinesesimp>建筑物的位置不正确，无法生成载具。</Chinesesimp>
       </Key>
     </Container>
     <Container name="basebuilding">
